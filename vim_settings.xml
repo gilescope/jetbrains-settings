@@ -24,6 +24,12 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1492622142073" />
+      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492624733543">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1492018782579">
         <mark key="'" line="34" column="48" />
         <mark key="i" line="214" column="4" />
@@ -33,10 +39,10 @@
         <mark key="^" line="119" column="15" />
       </file>
       <file name="$USER_HOME$/rust/rally/tests/interpolate_test.rs" timestamp="1492623237853">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1492622243160">
         <mark key="'" line="143" column="16" />
@@ -63,40 +69,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Discount</text>
+        <text>31 + 28 + 31</text>
       </register>
       <register name="-" type="4">
-        <text>Discount</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB5YyA6IERpc2NvdW50Q3VydmUgPSBzaW1wbGVfZGlzY291bnRfY3VydmU7Cg==</text>
+      <register name="0" type="4">
+        <text>31 + 28 + 31</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZXBfaW50ZXJwb2xhdG9yKHZlYyFbKDAuNWY2NCwgM2Y2NCksICgxX2Y2NCwgMTBfZjY0KV0sIDAuNyk7Cg==</text>
+        <text encoding="base64">eXkgbGV0IGRheXNfaW5fbW9udGggPSB2ZWMhWzMxLDI4LDMxLDMwLDMxLDMwLDMxLDMxLDMwLDMxLDMwLDMxXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBQb3NzaWJseSB0aGlzIGlzIGFuIG92ZXJzaW1wbGlmaWNhdGlvbi4uLmRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9pbXBsIFZhbCB7Ci8vICAgIGZuIG5ldyhhOmY2NCkgLT4gVmFsIHsKLy8gICAgICAgIHJldHVybiBWYWwgeyBhOmEgfTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6Y29sbGVjdGlvbnM6Okhhc2hNYXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN0ZXBfaW50ZXJwb2xhdG9yKHZlYyFbKDAuNWY2NCwgM2Y2NCksICgxX2Y2NCwgMTBfZjY0KV0sIDAuNyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bS5pbnNlcnQoImJrIiwgIGNhbGNfc3QoJm11dCB2di5pbWFnZXMuaXRlcigpLm1hcCh8aW1nfCBpbWcuYi5rdXJ0b3NpcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGNfbWVhbigmbXV0IHZ2LmltYWdlcy5pdGVyKCkubWFwKHxpbWd8IGltZy5iLmt1cnRvc2lzKSkpKQo=</text>
+        <text encoding="base64">Ly9pbXBsIFZhbCB7Ci8vICAgIGZuIG5ldyhhOmY2NCkgLT4gVmFsIHsKLy8gICAgICAgIHJldHVybiBWYWwgeyBhOmEgfTsKLy8gICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bS5pbnNlcnQoImdrIiwgIGNhbGNfc3QoJm11dCB2di5pbWFnZXMuaXRlcigpLm1hcCh8aW1nfCBpbWcuZy5rdXJ0b3NpcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGNfbWVhbigmbXV0IHZ2LmltYWdlcy5pdGVyKCkubWFwKHxpbWd8IGltZy5nLmt1cnRvc2lzKSkpKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIHN0ZDo6Y29sbGVjdGlvbnM6Okhhc2hNYXA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FsY19tZWFuKCZtdXQgdnYuaW1hZ2VzLml0ZXIoKS5tYXAofGltZ3wgaW1nLnIua3VydG9zaXMpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
