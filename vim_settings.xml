@@ -25,19 +25,19 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1492622142073" />
-      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492759631529">
+      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492802434249">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="0" column="9" />
+        <mark key="[" line="29" column="38" />
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="4" />
         <mark key="^" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1492800606571">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1492802634169">
+        <mark key="'" line="32" column="36" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1492018782579">
         <mark key="'" line="34" column="48" />
@@ -53,12 +53,13 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/rust/rally/tests/interpolate_test.rs" timestamp="1492760334319">
+      <file name="$USER_HOME$/rust/rally/tests/interpolate_test.rs" timestamp="1492802983554">
+        <mark key="a" line="35" column="11" />
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="28" column="41" />
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1492622243160">
         <mark key="'" line="143" column="16" />
@@ -96,43 +97,44 @@
       <jump line="28" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
       <jump line="0" column="17" filename="$USER_HOME$/rust/rally/src/money.rs" />
       <jump line="19" column="0" filename="$USER_HOME$/rust/rally/src/money.rs" />
+      <jump line="26" column="36" filename="$USER_HOME$/rust/rally/src/money.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHdwdWIg</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHdwdWIg</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I1tkZXJpdmUoQ2xvbmUsQ29weSldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeCA6VmVjPHU4PiA9IHZlYyFbXTsK</text>
+        <text encoding="base64">ICAgICAgICBNb25leSB7IGFtb3VudDogc2VsZi5tb25leSAqIGZhY3RvciwgY3VycmVuY3k6Q3VycmVuY3k6OkdCUCB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IHggOlZlYzx1OD4gPSB2ZWMhW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZmFjdG9yID0gZmxhdF9kaXNjb3VudF9jdXJ2ZShEdXJhdGlvbjo6bmV3KGFzX29mLCBzZWxmLnNldHRsZV9kYXRlKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6b3BzOjpNdWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm4gcHZfb2ZfY2FzaGZsb3dzKGNhc2hmbG93czogVmVjPENhc2hGbG93PikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHR5cGUgT3V0cHV0ID0gSW50ZXJlc3RSYXRlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5OiBDdXJyZW5jeQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeCA6VmVjPHU4PiA9IHZlYyFbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5OiBDdXJyZW5jeQo=</text>
+        <text encoding="base64">bGV0IHggOlZlYzx1OD4gPSB2ZWMhW107Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhdGU6IGY2NCwK</text>
+        <text encoding="base64">Zm4gcHZfb2ZfY2FzaGZsb3dzKGNhc2hmbG93czogVmVjPENhc2hGbG93PikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
