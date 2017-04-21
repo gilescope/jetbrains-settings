@@ -16,6 +16,7 @@
         <mark key="^" line="22" column="80" />
         <mark key="." line="22" column="12" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/ops.rs" timestamp="1492800490689" />
       <file name="$USER_HOME$/rust/rally/src/algebra.rs" timestamp="1492586972897">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="14" column="0" />
@@ -24,15 +25,19 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1492622142073" />
-      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492715029656">
+      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492759631529">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-        <mark key="^" line="30" column="8" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1492715402197">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1492800606571">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1492018782579">
         <mark key="'" line="34" column="48" />
@@ -48,12 +53,12 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/rust/rally/tests/interpolate_test.rs" timestamp="1492714383750">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="34" column="22" />
+      <file name="$USER_HOME$/rust/rally/tests/interpolate_test.rs" timestamp="1492760334319">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1492622243160">
         <mark key="'" line="143" column="16" />
@@ -89,16 +94,18 @@
       <jump line="32" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
       <jump line="29" column="4" filename="$USER_HOME$/rust/rally/src/time.rs" />
       <jump line="28" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
+      <jump line="0" column="17" filename="$USER_HOME$/rust/rally/src/money.rs" />
+      <jump line="19" column="0" filename="$USER_HOME$/rust/rally/src/money.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>date</text>
+        <text encoding="base64">ZHdwdWIg</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text encoding="base64">ZHdwdWIg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHViIG1vZCBhbGdlYnJhOwo=</text>
+        <text encoding="base64">I1tkZXJpdmUoQ2xvbmUsQ29weSldCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgeCA6VmVjPHU4PiA9IHZlYyFbXTsK</text>
