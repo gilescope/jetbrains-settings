@@ -16,7 +16,6 @@
         <mark key="^" line="22" column="80" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/ops.rs" timestamp="1492800490689" />
       <file name="$USER_HOME$/rust/rally/src/algebra.rs" timestamp="1492586972897">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="14" column="0" />
@@ -24,7 +23,6 @@
         <mark key="^" line="93" column="13" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1492622142073" />
       <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492802434249">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="29" column="38" />
@@ -32,12 +30,13 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1492802634169">
-        <mark key="'" line="32" column="36" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="27" column="15" />
-        <mark key="." line="27" column="15" />
-        <mark key="^" line="27" column="16" />
+      <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1493020879391">
+        <mark key="a" line="37" column="50" />
+        <mark key="'" line="36" column="28" />
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1492018782579">
         <mark key="'" line="34" column="48" />
@@ -47,11 +46,10 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="15" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/lib.rs" timestamp="1492714448009">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="17" column="11" />
+      <file name="$USER_HOME$/rust/rally/src/lib.rs" timestamp="1493020415353">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/tests/interpolate_test.rs" timestamp="1492802983554">
         <mark key="a" line="35" column="11" />
@@ -98,54 +96,64 @@
       <jump line="0" column="17" filename="$USER_HOME$/rust/rally/src/money.rs" />
       <jump line="19" column="0" filename="$USER_HOME$/rust/rally/src/money.rs" />
       <jump line="26" column="36" filename="$USER_HOME$/rust/rally/src/money.rs" />
+      <jump line="2" column="0" filename="$USER_HOME$/rust/rally/src/lib.rs" />
+      <jump line="36" column="28" filename="$USER_HOME$/rust/rally/src/money.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIGNvcmU6OmY2NDo6Y29uc3RzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rand</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxleHRlcm5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I1tkZXJpdmUoQ2xvbmUsQ29weSldCg==</text>
+        <text encoding="base64">ZXh0ZXJuIGNyYXRlIHJhbmQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb25leSB7IGFtb3VudDogc2VsZi5tb25leSAqIGZhY3RvciwgY3VycmVuY3k6Q3VycmVuY3k6OkdCUCB9Cg==</text>
+        <text encoding="base64">dXNlIGNvcmU6OmY2NDo6Y29uc3RzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZmFjdG9yID0gZmxhdF9kaXNjb3VudF9jdXJ2ZShEdXJhdGlvbjo6bmV3KGFzX29mLCBzZWxmLnNldHRsZV9kYXRlKSk7Cg==</text>
+        <text encoding="base64">ZXh0ZXJuIGNyYXRlIGNvcmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6b3BzOjpNdWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb25leSB7IGFtb3VudDogc2VsZi5tb25leSAqIGZhY3RvciwgY3VycmVuY3k6Q3VycmVuY3k6OkdCUCB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZmFjdG9yID0gZmxhdF9kaXNjb3VudF9jdXJ2ZShEdXJhdGlvbjo6bmV3KGFzX29mLCBzZWxmLnNldHRsZV9kYXRlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR5cGUgT3V0cHV0ID0gSW50ZXJlc3RSYXRlOwo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6b3BzOjpNdWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeCA6VmVjPHU4PiA9IHZlYyFbXTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGV0IHggOlZlYzx1OD4gPSB2ZWMhW107Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHR5cGUgT3V0cHV0ID0gSW50ZXJlc3RSYXRlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgeCA6VmVjPHU4PiA9IHZlYyFbXTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm4gcHZfb2ZfY2FzaGZsb3dzKGNhc2hmbG93czogVmVjPENhc2hGbG93PikK</text>
+        <text encoding="base64">bGV0IHggOlZlYzx1OD4gPSB2ZWMhW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxleHRlcm5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxleHRlcm5cPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxleHRlcm5cPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
