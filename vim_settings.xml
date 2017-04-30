@@ -10,17 +10,11 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1491935741885">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="80" />
-        <mark key="." line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1493564036493">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1493573635276">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/algebra.rs" timestamp="1492586972897">
         <mark key="'" line="87" column="0" />
@@ -29,12 +23,11 @@
         <mark key="^" line="93" column="13" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1492802434249">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="4" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1493575464868">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/money.rs" timestamp="1493059867690">
         <mark key="a" line="37" column="50" />
@@ -43,6 +36,12 @@
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/rust/rally/Cargo.toml" timestamp="1493574065623">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1492018782579">
         <mark key="'" line="34" column="48" />
@@ -63,6 +62,19 @@
         <mark key="[" line="35" column="46" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/rust/rally/src/ebay.rs" timestamp="1493574626883">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1493574422644">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="80" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1492622243160">
         <mark key="'" line="143" column="16" />
@@ -103,13 +115,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/rust/rally/src/lib.rs" />
       <jump line="36" column="28" filename="$USER_HOME$/rust/rally/src/money.rs" />
       <jump line="36" column="29" filename="$USER_HOME$/rust/rally/tests/interpolate_test.rs" />
+      <jump line="4" column="11" filename="$USER_HOME$/rust/rally/src/ebay.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dW5jdGlvbiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9kIHN5czsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dW5jdGlvbiA=</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlcm5cPg==</text>
@@ -118,31 +131,31 @@
         <text encoding="base64">ZXh0ZXJuIGNyYXRlIHJhbmQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bW9kIHN5czsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9uZXk6ICZzZWxmLm5vdGlvbmFsCg==</text>
+        <text encoding="base64">bW9kIHN5czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dGxlX2RhdGU6IHNlbGYudHJhZGVfZGF0ZSwK</text>
+        <text encoding="base64">dXNlIHN5czo6Z2V0X3RpbWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vdGlvbmFsOiBNb25leQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWRlX2RhdGU6IERhdGUsCg==</text>
+        <text encoding="base64">ICBlbmREYXRlLnNldERhdGUoZW5kRGF0ZS5nZXREYXRlKCkrOTApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICB2YXIgaW5zdGFuY2UgPSBheGlvcy5jcmVhdGUoewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCEoeWMoMi4pIDwgeWMoMS4pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCEoeWMoMS4pIDwgMS4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
