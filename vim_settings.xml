@@ -64,11 +64,11 @@
         <mark key="^" line="65" column="94" />
         <mark key="." line="65" column="94" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1493574422644">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="80" />
-        <mark key="." line="22" column="12" />
+      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1494060633919">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="55" column="12" />
+        <mark key="^" line="55" column="80" />
+        <mark key="." line="55" column="12" />
       </file>
       <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sxd-xpath-0.4.0/src/lib.rs" timestamp="1494047381390" />
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1494010411116">
