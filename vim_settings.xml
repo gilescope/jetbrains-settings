@@ -4,12 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/image-0.12.3/src/jpeg/decoder.rs" timestamp="1493786905524" />
-      <file name="$USER_HOME$/rust/rally/src/algebra.rs" timestamp="1492586972897">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="93" column="13" />
-        <mark key="." line="14" column="0" />
+      <file name="/a.dummy" timestamp="1494228696609">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/Cargo.toml" timestamp="1493788372364">
         <mark key="[" line="30" column="12" />
@@ -41,7 +37,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1494011364827">
+      <file name="/LLDB" timestamp="1494228054404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sxd-document-0.2.1/src/parser.rs" timestamp="1493796859452" />
@@ -53,29 +49,17 @@
         <mark key="." line="318" column="3" />
       </file>
       <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sxd-document-0.2.1/src/lib.rs" timestamp="1493797370136" />
-      <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1492587060787">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="44" column="3" />
-      </file>
       <file name="/GDB" timestamp="1493758977207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1494176482564">
-        <mark key="'" line="96" column="40" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1494265948553">
+        <mark key="'" line="106" column="81" />
+        <mark key="[" line="103" column="69" />
+        <mark key="]" line="203" column="39" />
+        <mark key="." line="203" column="39" />
+        <mark key="^" line="203" column="39" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/time.rs" timestamp="1493651747217">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="57" column="41" />
-        <mark key="." line="57" column="41" />
-        <mark key="^" line="57" column="41" />
-      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sxd-xpath-0.4.0/src/nodeset.rs" timestamp="1494229706437" />
       <file name="$USER_HOME$/rust/rally/src/ebay.rs" timestamp="1493788343377">
         <mark key="'" line="6" column="13" />
         <mark key="[" line="113" column="8" />
@@ -88,7 +72,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sxd-xpath-0.4.0/src/lib.rs" timestamp="1494047381390" />
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sxd-xpath-0.4.0/src/lib.rs" timestamp="1494228810807" />
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1494010411116">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,55 +117,58 @@
       <jump line="106" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
       <jump line="55" column="31" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
       <jump line="93" column="40" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
+      <jump line="65" column="3" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
+      <jump line="80" column="1" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
+      <jump line="105" column="81" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly91c2Ugc3hkX3hwYXRoOjp7RmFjdG9yeSwgWFBhdGgsIENvbnRleHQsIFZhbHVlfTsK</text>
       </register>
       <register name="-" type="4">
-        <text>file_in_question.path().into_os_string().into_string().unwrap()</text>
+        <text encoding="base64">KCksIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWFkXD4=</text>
+        <text>unwra</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;//x:PictureDetails&quot;</text>
+        <text>picture_url_set.document_order_first();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly91c2Ugc3hkX3hwYXRoOjp7RmFjdG9yeSwgWFBhdGgsIENvbnRleHQsIFZhbHVlfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG11dCBtaWRkbGUgPSBTdHJpbmc6Om5ldygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgbXV0IG1hdGNoZXMgPSBWZWM8Pjo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vPCduLEludG88bm9kZXNldDo6Tm9kZTwnbj4+PigmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG11dCBpID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHk9IHBpY3R1cmVfdXJsX3NldC5kb2N1bWVudF9vcmRlcl9maXJzdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBmaW5kID0gZnVsbF9wYXRoOyAvLysgdmZyYW1lXzc1MF8tUzE0MjkwMzk5NDQxMTguanBnIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBmdWxsX3BhdGggPSBhX2ZpbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWFkXD4=</last-search>
+      <last-search>unwra</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWFkXD4=</last-pattern>
+      <last-pattern>unwra</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -189,6 +176,7 @@
       <history-search>
         <entry encoding="base64">XDxleHRlcm5cPg==</entry>
         <entry encoding="base64">XDxSZWFkXD4=</entry>
+        <entry>unwra</entry>
       </history-search>
       <history-cmd>
         <entry>!pwd</entry>
