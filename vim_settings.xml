@@ -6,11 +6,11 @@
       <file name="/GDB" timestamp="1493758977207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1494960034519">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="69" column="32" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1494962784310">
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1494228696609">
         <mark key="[" line="0" column="0" />
@@ -54,11 +54,11 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1494010411116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1494959327685">
-        <mark key="u" line="120" column="36" />
-        <mark key="[" line="131" column="56" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1494963267810">
+        <mark key="u" line="130" column="36" />
+        <mark key="[" line="141" column="56" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
@@ -140,7 +140,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByLmV4cGVjdCgiZmFpbGVkIHByaW50aW5nIHRvIHN0ZGVyciIpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKGNvbmNhdCEoImEiLCAiYiIpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>md5</text>
@@ -152,25 +152,25 @@
         <text>ref mut</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByLmV4cGVjdCgiZmFpbGVkIHByaW50aW5nIHRvIHN0ZGVyciIpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKGNvbmNhdCEoImEiLCAiYiIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICByLmV4cGVjdCgiZmFpbGVkIHByaW50aW5nIHRvIHN0ZGVyciIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmc6Om5ldygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgXyA9IHByaW50bG5fc3RkZXJyISgiezo/fSIsIGVyci5NZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmc6Om5ldygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdDo6UmVzdWx0OjpFcnIoaHlwZXI6OkVycm9yOjpJTyhlcnIpKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgXyA9IHByaW50bG5fc3RkZXJyISgiezo/fSIsIGVyci5NZXNzYWdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGh5cGVyOjpFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdDo6UmVzdWx0OjpFcnIoaHlwZXI6OkVycm9yOjpJTyhlcnIpKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGh5cGVyOjpFcnJvcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
