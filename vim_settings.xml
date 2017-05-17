@@ -6,13 +6,22 @@
       <file name="/GDB" timestamp="1493758977207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1494962784310">
-        <mark key="'" line="177" column="0" />
-        <mark key="[" line="53" column="15" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495047041746">
+        <mark key="[" line="313" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1494228696609">
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495049710589">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="218" column="17" />
+        <mark key="]" line="222" column="2" />
+        <mark key="." line="222" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495047969226">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/rust/rally/src/algebra.rs" timestamp="1495046449691">
+        <mark key="[" line="18" column="45" />
+      </file>
+      <file name="/a.dummy" timestamp="1495007769790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/Cargo.toml" timestamp="1494919901353">
@@ -21,15 +30,16 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="8" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1494832678729">
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/result.rs" timestamp="1495046665405" />
+      <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1495047097270">
         <mark key="i" line="141" column="4" />
-        <mark key="[" line="33" column="0" />
+        <mark key="[" line="85" column="31" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="46" column="15" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/lib.rs" timestamp="1494063011054">
-        <mark key="[" line="17" column="12" />
+      <file name="$USER_HOME$/rust/rally/src/lib.rs" timestamp="1495008402062">
+        <mark key="[" line="18" column="12" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -40,32 +50,42 @@
         <mark key="^" line="65" column="94" />
         <mark key="." line="65" column="94" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/storage.rs" timestamp="1494063534168">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/storage.rs" timestamp="1495046913279">
+        <mark key="[" line="6" column="19" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1494173160007">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="29" />
+      <file name="$USER_HOME$/rust/rally/src/logging.rs" timestamp="1495049569423">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1495049844988">
+        <mark key="[" line="146" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1494010411116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1494963267810">
-        <mark key="u" line="130" column="36" />
-        <mark key="[" line="141" column="56" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1495047339408">
+        <mark key="[" line="77" column="13" />
+      </file>
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1495048522716">
+        <mark key="u" line="115" column="36" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="72" column="46" />
+        <mark key="." line="72" column="46" />
+        <mark key="^" line="72" column="46" />
       </file>
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1494173509485">
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495047835892">
         <mark key="'" line="144" column="16" />
-        <mark key="[" line="361" column="0" />
+        <mark key="[" line="208" column="13" />
         <mark key="]" line="318" column="3" />
         <mark key="^" line="318" column="3" />
         <mark key="." line="318" column="3" />
@@ -137,13 +157,14 @@
       <jump line="108" column="4" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
       <jump line="177" column="29" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
       <jump line="168" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
+      <jump line="5" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKGNvbmNhdCEoImEiLCAiYiIpKTsK</text>
+        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
       </register>
       <register name="-" type="4">
-        <text>md5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>unwra</text>
@@ -152,28 +173,28 @@
         <text>ref mut</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKGNvbmNhdCEoImEiLCAiYiIpKTsK</text>
+        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByLmV4cGVjdCgiZmFpbGVkIHByaW50aW5nIHRvIHN0ZGVyciIpOwo=</text>
+        <text encoding="base64">ICAgCiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOjpzdGQ6OnJlc3VsdDo6UmVzdWx0Ojp1bndyYXBfZmFpbGVkKGZvcm1hdCEoInt9Ont9IGNhbGxlZCBgUmVzdWx0Ojp1bndyYXAoKWAgb24gYW4gYEVycmAgdmFsdWUiLCBmaWxlISgpLCBsaW5lISgpKSwgZSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmc6Om5ldygpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgXyA9IHByaW50bG5fc3RkZXJyISgiezo/fSIsIGVyci5NZXNzYWdlKTsK</text>
+        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdDo6UmVzdWx0OjpFcnIoaHlwZXI6OkVycm9yOjpJTyhlcnIpKSA9PiB7Cg==</text>
+        <text encoding="base64">dXNlIHJhbGx5Ojpsb2dnaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGh5cGVyOjpFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgciA9IHdyaXRlbG4hKCQoJGFyZykqKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgciA9IHdyaXRlbG4hKCQoJGFyZykqKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
