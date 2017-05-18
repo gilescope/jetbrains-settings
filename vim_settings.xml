@@ -83,12 +83,11 @@
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495128285040">
-        <mark key="'" line="144" column="16" />
-        <mark key="[" line="283" column="4" />
-        <mark key="]" line="283" column="49" />
-        <mark key="^" line="283" column="49" />
-        <mark key="." line="283" column="49" />
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495129312794">
+        <mark key="'" line="320" column="62" />
+        <mark key="[" line="269" column="12" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -158,55 +157,56 @@
       <jump line="177" column="29" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
       <jump line="168" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
       <jump line="5" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
+      <jump line="330" column="62" filename="$USER_HOME$/rust/rally/src/stats.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jm11dCBJbWFnZUl0ZXI6OnRvcF9sZWZ0KGltYWdlLCBnZXRfY29sb3JfYXQp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jm11dCBJbWFnZUl0ZXI6OnRvcF9sZWZ0KGltYWdlLCBnZXRfY29sb3JfYXQp</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
-        <text>unwra</text>
+        <text>top</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaTp3aWR0aCAqIChoZWlnaHQvMikgKyB3aWR0aC8yLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaTp3aWR0aCAqIChoZWlnaHQvMikgKyB3aWR0aC8yLCAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHdyaXRlIHNvbWUgdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgbWluX3ggPSAwOwogICAgICAgICAgICAvL2xldCBtaW5feSA9IDA7CiAgICAgICAgICAgIC8vbGV0IG1heF9pbmNsdXNpdmVfeCA9IDEwOwogICAgICAgICAgICAvL2xldCBtYXhfaW5jbHVzaXZlX3kgPSAxMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBpbWFnZXMgPSBRdWFkU3BsaXQoaW1hZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgKGhlaWdodCwgd2lkdGgpID0gaW1hZ2UuZGltZW5zaW9ucygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9XaW5kb3chISEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOjpzdGQ6OnJlc3VsdDo6UmVzdWx0Ojp1bndyYXBfZmFpbGVkKGZvcm1hdCEoInt9Ont9IGNhbGxlZCBgUmVzdWx0Ojp1bndyYXAoKWAgb24gYW4gYEVycmAgdmFsdWUiLCBmaWxlISgpLCBsaW5lISgpKSwgZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZXJfciA9ICZtdXQgSW1hZ2VJdGVyOjp0b3BfbGVmdCgmaW1hZ2UsIGdldF9yKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>unwra</last-search>
+      <last-search>top</last-search>
       <last-offset />
-      <last-pattern>unwra</last-pattern>
+      <last-pattern>top</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -215,12 +215,15 @@
         <entry encoding="base64">XDxleHRlcm5cPg==</entry>
         <entry encoding="base64">XDxSZWFkXD4=</entry>
         <entry>unwra</entry>
+        <entry>s</entry>
+        <entry>top</entry>
       </history-search>
       <history-cmd>
         <entry>!pwd</entry>
         <entry>!cd /</entry>
         <entry>!ls</entry>
         <entry>w</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
