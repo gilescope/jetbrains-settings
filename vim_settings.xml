@@ -83,12 +83,12 @@
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495056219730">
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495128285040">
         <mark key="'" line="144" column="16" />
-        <mark key="[" line="223" column="33" />
-        <mark key="]" line="218" column="0" />
-        <mark key="^" line="218" column="33" />
-        <mark key="." line="218" column="0" />
+        <mark key="[" line="283" column="4" />
+        <mark key="]" line="283" column="49" />
+        <mark key="^" line="283" column="49" />
+        <mark key="." line="283" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -160,44 +160,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBpbWFnZXMgPSBRdWFkU3BsaXQoaW1hZ2UpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jm11dCBJbWFnZUl0ZXI6OnRvcF9sZWZ0KGltYWdlLCBnZXRfY29sb3JfYXQp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jm11dCBJbWFnZUl0ZXI6OnRvcF9sZWZ0KGltYWdlLCBnZXRfY29sb3JfYXQp</text>
       </register>
       <register name="/" type="4">
         <text>unwra</text>
       </register>
-      <register name="0" type="4">
-        <text>ref mut</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaTp3aWR0aCAqIChoZWlnaHQvMikgKyB3aWR0aC8yLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBpbWFnZXMgPSBRdWFkU3BsaXQoaW1hZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaTp3aWR0aCAqIChoZWlnaHQvMikgKyB3aWR0aC8yLCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
+        <text encoding="base64">ICAgIGVzdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCiAgICAK</text>
+        <text encoding="base64">ICAgIC8vIHdyaXRlIHNvbWUgdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOjpzdGQ6OnJlc3VsdDo6UmVzdWx0Ojp1bndyYXBfZmFpbGVkKGZvcm1hdCEoInt9Ont9IGNhbGxlZCBgUmVzdWx0Ojp1bndyYXAoKWAgb24gYW4gYEVycmAgdmFsdWUiLCBmaWxlISgpLCBsaW5lISgpKSwgZSksCg==</text>
+        <text encoding="base64">ICAgIGxldCBpbWFnZXMgPSBRdWFkU3BsaXQoaW1hZ2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCiAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIHJhbGx5Ojpsb2dnaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOjpzdGQ6OnJlc3VsdDo6UmVzdWx0Ojp1bndyYXBfZmFpbGVkKGZvcm1hdCEoInt9Ont9IGNhbGxlZCBgUmVzdWx0Ojp1bndyYXAoKWAgb24gYW4gYEVycmAgdmFsdWUiLCBmaWxlISgpLCBsaW5lISgpKSwgZSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgciA9IHdyaXRlbG4hKCQoJGFyZykqKTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgciA9IHdyaXRlbG4hKCQoJGFyZykqKTsK</text>
+        <text encoding="base64">I1ttYWNyb191c2VdIHVzZSByYWxseTo6bG9nZ2luZzo6KjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
