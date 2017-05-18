@@ -83,11 +83,11 @@
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495129312794">
-        <mark key="'" line="320" column="62" />
-        <mark key="[" line="269" column="12" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495130480001">
+        <mark key="'" line="321" column="62" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -161,7 +161,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>top</text>
@@ -173,31 +173,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaTp3aWR0aCAqIChoZWlnaHQvMikgKyB3aWR0aC8yLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgbWluX3ggPSAwOwogICAgICAgICAgICAvL2xldCBtaW5feSA9IDA7CiAgICAgICAgICAgIC8vbGV0IG1heF9pbmNsdXNpdmVfeCA9IDEwOwogICAgICAgICAgICAvL2xldCBtYXhfaW5jbHVzaXZlX3kgPSAxMDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgKGhlaWdodCwgd2lkdGgpID0gaW1hZ2UuZGltZW5zaW9ucygpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9XaW5kb3chISEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgbWluX3ggPSAwOwogICAgICAgICAgICAvL2xldCBtaW5feSA9IDA7CiAgICAgICAgICAgIC8vbGV0IG1heF9pbmNsdXNpdmVfeCA9IDEwOwogICAgICAgICAgICAvL2xldCBtYXhfaW5jbHVzaXZlX3kgPSAxMDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9sZXQgKGhlaWdodCwgd2lkdGgpID0gaW1hZ2UuZGltZW5zaW9ucygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9XaW5kb3chISEK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZXJfciA9ICZtdXQgSW1hZ2VJdGVyOjp0b3BfbGVmdCgmaW1hZ2UsIGdldF9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
