@@ -6,14 +6,15 @@
       <file name="/GDB" timestamp="1493758977207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495047041746">
+      <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
         <mark key="[" line="313" column="17" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495050896423">
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495221097407">
         <mark key="'" line="164" column="0" />
-        <mark key="[" line="218" column="17" />
-        <mark key="]" line="222" column="2" />
-        <mark key="." line="222" column="2" />
+        <mark key="[" line="222" column="39" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="213" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1495047969226">
         <mark key="[" line="0" column="0" />
@@ -83,11 +84,11 @@
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495142734208">
-        <mark key="'" line="322" column="62" />
-        <mark key="[" line="466" column="3" />
-        <mark key="]" line="468" column="0" />
-        <mark key="." line="468" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495220927193">
+        <mark key="'" line="320" column="62" />
+        <mark key="[" line="283" column="34" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -160,11 +161,11 @@
       <jump line="330" column="62" filename="$USER_HOME$/rust/rally/src/stats.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoOiBzLAo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -173,28 +174,28 @@
         <text encoding="base64">ICAgICAgICAgICAgaTp3aWR0aCAqIChoZWlnaHQvMikgKyB3aWR0aC8yLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoOiBzLAo=</text>
+        <text encoding="base64">ICAgIC8vbGV0IGl0ZXIyOiBJbWFnZUl0ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCg==</text>
+        <text encoding="base64">ICAgIC8vbGV0IG11dCBtZWFuOiBmMzI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoOiBzLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCiAgICAgICAgICAgICAgICByOlN0YXRzIHsgbWVhbjotOTk5LiwgZGV2aWF0aW9uOi05OTkuLCBza2V3Oi05OTkuLCBrdXJ0b3NpczotOTk5LiB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGF0aDpwcCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCiAgICAgICAgICAgICAgICByOlN0YXRzIHsgbWVhbjotOTk5LiwgZGV2aWF0aW9uOi05OTkuLCBza2V3Oi05OTkuLCBrdXJ0b3NpczotOTk5LiB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGF0aDpwcCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGg6cHAsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGF0aDpwcCwK</text>
