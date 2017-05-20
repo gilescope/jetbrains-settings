@@ -9,11 +9,12 @@
       <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
         <mark key="[" line="313" column="17" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495274413933">
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495276355849">
         <mark key="'" line="282" column="38" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
+        <mark key="[" line="253" column="51" />
+        <mark key="]" line="266" column="51" />
+        <mark key="." line="266" column="51" />
+        <mark key="^" line="265" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1495272021714">
         <mark key="[" line="0" column="0" />
@@ -83,11 +84,12 @@
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495272035000">
-        <mark key="'" line="320" column="62" />
-        <mark key="[" line="283" column="34" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495276919863">
+        <mark key="'" line="462" column="18" />
+        <mark key="[" line="465" column="42" />
+        <mark key="]" line="465" column="49" />
+        <mark key="." line="465" column="43" />
+        <mark key="^" line="465" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -159,13 +161,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
       <jump line="330" column="62" filename="$USER_HOME$/rust/rally/src/stats.rs" />
       <jump line="263" column="38" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
+      <jump line="462" column="18" filename="$USER_HOME$/rust/rally/src/stats.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrdXJ0OiBjYWxjKHZ2LCBxcCwgY3AsICZrdXJ0X3BpY2tlciksCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8gNC4w</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IC8gNC4w</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
