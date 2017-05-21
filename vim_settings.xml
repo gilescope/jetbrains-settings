@@ -9,12 +9,12 @@
       <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
         <mark key="[" line="313" column="17" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495276355849">
-        <mark key="'" line="282" column="38" />
-        <mark key="[" line="253" column="51" />
-        <mark key="]" line="266" column="51" />
-        <mark key="." line="266" column="51" />
-        <mark key="^" line="265" column="11" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495371627592">
+        <mark key="'" line="296" column="38" />
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="278" column="51" />
+        <mark key="." line="278" column="51" />
+        <mark key="^" line="277" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1495272021714">
         <mark key="[" line="0" column="0" />
@@ -31,7 +31,6 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="8" />
       </file>
-      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/result.rs" timestamp="1495046665405" />
       <file name="$USER_HOME$/rust/rally/src/matcher.rs" timestamp="1495047097270">
         <mark key="i" line="141" column="4" />
         <mark key="[" line="85" column="31" />
