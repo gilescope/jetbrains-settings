@@ -9,12 +9,12 @@
       <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
         <mark key="[" line="313" column="17" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495372417884">
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1495374345145">
         <mark key="'" line="300" column="38" />
-        <mark key="[" line="133" column="8" />
-        <mark key="]" line="278" column="51" />
-        <mark key="." line="278" column="51" />
-        <mark key="^" line="277" column="11" />
+        <mark key="[" line="152" column="28" />
+        <mark key="]" line="152" column="19" />
+        <mark key="." line="152" column="19" />
+        <mark key="^" line="152" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1495272021714">
         <mark key="[" line="0" column="0" />
@@ -83,9 +83,9 @@
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495278703809">
+      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495373445495">
         <mark key="'" line="462" column="18" />
-        <mark key="[" line="446" column="32" />
+        <mark key="[" line="470" column="82" />
         <mark key="]" line="446" column="33" />
         <mark key="." line="446" column="0" />
         <mark key="^" line="446" column="31" />
@@ -163,11 +163,11 @@
       <jump line="462" column="18" filename="$USER_HOME$/rust/rally/src/stats.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpZmYoYS50b3BfbGVmdCwgYi50b3BfbGVmdCkgCg==</text>
+      <register name="&quot;" type="4">
+        <text>file!(), line!());</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gNC4w</text>
+        <text>file!(), line!());</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
