@@ -77,12 +77,12 @@
       <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1495047339408">
         <mark key="[" line="77" column="13" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1495525590585">
-        <mark key="u" line="205" column="36" />
-        <mark key="'" line="119" column="36" />
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="102" column="22" />
-        <mark key="." line="102" column="22" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1495566614505">
+        <mark key="u" line="204" column="36" />
+        <mark key="'" line="118" column="36" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="/LLDB" timestamp="1494743145048">
         <mark key="[" line="0" column="0" />
@@ -167,8 +167,8 @@
       <jump line="113" column="36" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reading file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8UGljdHVyZURhdGEgY29udGVudFR5cGU9J3N0cmluZyc+e2Jhc2U2NGJpbn08L1BpY3R1cmVEYXRhPgo=</text>
       </register>
       <register name="-" type="4">
         <text>reading file</text>
@@ -180,31 +180,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vbGV0IF8gPSBzdGQ6OnBhbmljOjpjYXRjaF91bndpbmQofHwgOwo=</text>
+        <text encoding="base64">ICA8UGljdHVyZURhdGEgY29udGVudFR5cGU9J3N0cmluZyc+e2Jhc2U2NGJpbn08L1BpY3R1cmVEYXRhPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vbGV0IF8gPSBzdGQ6OnBhbmljOjpjYXRjaF91bndpbmQofHwgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAuZmluaXNoKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgIC5leHRlbmRfcGFpcnMocXVlcnkuaXRlcigpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBsZXQgYm9keSA9IGZvcm1fdXJsZW5jb2RlZDo6U2VyaWFsaXplcjo6bmV3KFN0cmluZzo6bmV3KCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8VmVyc2lvbj44NTk8L1ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8RXh0ZXJuYWxQaWN0dXJlVVJMPiBhbnlVUkkgPC9FeHRlcm5hbFBpY3R1cmVVUkw+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAuZmluaXNoKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgIC5leHRlbmRfcGFpcnMocXVlcnkuaXRlcigpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICBsZXQgYm9keSA9IGZvcm1fdXJsZW5jb2RlZDo6U2VyaWFsaXplcjo6bmV3KFN0cmluZzo6bmV3KCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8VmVyc2lvbj44NTk8L1ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8RXh0ZXJuYWxQaWN0dXJlVVJMPiBhbnlVUkkgPC9FeHRlcm5hbFBpY3R1cmVVUkw+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLzxEZXRhaWxMZXZlbD5SZXR1cm5BbGw8L0RldGFpbExldmVsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
