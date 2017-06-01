@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1496254717670">
         <mark key="'" line="304" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495272021714">
+      <file name="/Dummy.txt" timestamp="1496339643555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/imgstats.rs" timestamp="1495378892667">
@@ -54,11 +54,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1496305300612">
-        <mark key="[" line="77" column="33" />
-        <mark key="]" line="77" column="30" />
-        <mark key="." line="77" column="30" />
-        <mark key="^" line="77" column="30" />
+      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1496339631433">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="24" />
+        <mark key="." line="78" column="24" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1495049844988">
         <mark key="[" line="146" column="17" />
@@ -165,11 +164,11 @@
       <jump line="94" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGFydCA9IDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -178,31 +177,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGFydCA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHM6IHN0ciA9IHhtbF9lbGVtZW50Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHhtbF9lbGVtZW50W3htbF9lbGVtZW50LmZpbmQoJz4nKTp4bWxfZWxlbWVudC5yZmluZCgnPCldCg==</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhtbF9lbGVtZW50W3htbF9lbGVtZW50LmZpbmQoJz4nKTp4bWxfZWxlbWVudC5yZmluZCgnPCldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB1cmwgPSBwaWN0dXJlX3VybDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gCg==</text>
+        <text encoding="base64">ICAgIGxldCB1cmwgPSBwaWN0dXJlX3VybDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXh0ZXJuIGNyYXRlIGJhY2t0cmFjZTsK</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXh0ZXJuIGNyYXRlIGJhY2t0cmFjZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIHJlc3VsdHMuIHsgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgcmVzdWx0cyA9IFZlYzo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIHJlc3VsdHMuIHsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
