@@ -9,8 +9,12 @@
       <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
         <mark key="[" line="313" column="17" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1496254717670">
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1496342123996">
         <mark key="'" line="304" column="38" />
+        <mark key="[" line="344" column="38" />
+        <mark key="]" line="344" column="14" />
+        <mark key="^" line="344" column="14" />
+        <mark key="." line="344" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1496339643555">
         <mark key="[" line="0" column="0" />
@@ -54,7 +58,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1496339631433">
+      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1496341626753">
         <mark key="[" line="78" column="24" />
         <mark key="]" line="78" column="24" />
         <mark key="." line="78" column="24" />
@@ -239,6 +243,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
