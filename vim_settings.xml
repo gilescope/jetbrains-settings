@@ -81,13 +81,19 @@
       <file name="/Dummy.txt" timestamp="1496339643555">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/shop/silver/categories/Footer.html" timestamp="1496647095964">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/rust/rally/src/imgstats.rs" timestamp="1495378892667">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Homepage.html" timestamp="1496594648112">
-        <mark key="[" line="25" column="36" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Homepage.html" timestamp="1496647205994">
+        <mark key="[" line="42" column="55" />
         <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
@@ -111,12 +117,17 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Footer.html" timestamp="1496593328431">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Footer.html" timestamp="1496646492616">
+        <mark key="[" line="1" column="38" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/index.html" timestamp="1496593731071" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/index.html" timestamp="1496647378825">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="90" column="59" filename="$USER_HOME$/rust/rally/src/matcher.rs" />
