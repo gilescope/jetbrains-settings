@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1495007769790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/Cargo.toml" timestamp="1495735169934">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/rust/rally/Cargo.toml" timestamp="1496733854562">
+        <mark key="[" line="42" column="23" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="34" column="19" />
         <mark key="." line="18" column="0" />
@@ -20,13 +20,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/website.rs" timestamp="1496593007462">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/website.rs" timestamp="1496734413370">
+        <mark key="[" line="35" column="57" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="58" />
+        <mark key="^" line="35" column="58" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1496341626753">
+      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1496733759120">
         <mark key="[" line="78" column="24" />
         <mark key="]" line="78" column="24" />
         <mark key="." line="78" column="24" />
@@ -71,7 +71,7 @@
       <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
         <mark key="[" line="313" column="17" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1496591500624">
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1496734146092">
         <mark key="'" line="304" column="38" />
         <mark key="[" line="340" column="19" />
         <mark key="]" line="344" column="14" />
@@ -205,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">I1ttYWNyb191c2VdIGV4dGVybiBjcmF0ZSByYWxseTsK</text>
       </register>
       <register name="-" type="4">
-        <text>{this.props.misc.items.map(function</text>
+        <text>full_path</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -217,31 +217,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">I1ttYWNyb191c2VdIGV4dGVybiBjcmF0ZSByYWxseTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9odG1sPgo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHM6IHN0ciA9IHhtbF9lbGVtZW50Owo=</text>
+        <text encoding="base64">ICAgIGZuIGZpbmRfYXNzb2NpYXRlZF9waWN0dXJlcyhza3U6ICZzdHIpIC0+IFZlYzxTdHJpbmc+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGFydCA9IDsK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbF9lbGVtZW50W3htbF9lbGVtZW50LmZpbmQoJz4nKTp4bWxfZWxlbWVudC5yZmluZCgnPCldCg==</text>
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHM6IHN0ciA9IHhtbF9lbGVtZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB1cmwgPSBwaWN0dXJlX3VybDsK</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCA9IDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gCg==</text>
+        <text encoding="base64">ICAgIHhtbF9lbGVtZW50W3htbF9lbGVtZW50LmZpbmQoJz4nKTp4bWxfZWxlbWVudC5yZmluZCgnPCldCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXh0ZXJuIGNyYXRlIGJhY2t0cmFjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
