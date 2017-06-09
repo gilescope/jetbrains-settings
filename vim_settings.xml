@@ -20,11 +20,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/website.rs" timestamp="1496942443856">
-        <mark key="[" line="169" column="17" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/rust/rally/src/metalminnie/website.rs" timestamp="1496992514774">
+        <mark key="'" line="173" column="30" />
+        <mark key="[" line="174" column="20" />
+        <mark key="]" line="174" column="20" />
+        <mark key="^" line="174" column="29" />
+        <mark key="." line="174" column="20" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/macros.rs" timestamp="1496861380406">
         <mark key="[" line="114" column="28" />
@@ -205,13 +206,14 @@
       <jump line="113" column="36" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
       <jump line="99" column="17" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
       <jump line="94" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
+      <jump line="172" column="30" filename="$USER_HOME$/rust/rally/src/metalminnie/website.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>safe_filename</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>safe_filename</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
