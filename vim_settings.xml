@@ -99,8 +99,11 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497251746857">
-        <mark key="[" line="0" column="16" />
+      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497286728616">
+        <mark key="'" line="82" column="44" />
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/storage.rs" timestamp="1495046913279">
         <mark key="[" line="6" column="19" />
@@ -207,13 +210,14 @@
       <jump line="99" column="17" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
       <jump line="94" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
       <jump line="172" column="30" filename="$USER_HOME$/rust/rally/src/metalminnie/website.rs" />
+      <jump line="83" column="44" filename="$USER_HOME$/rust/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unwrap!(f64::from_str(always!(xml::find_single(&quot;CurrentPrice&quot;, ebay_item)))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGNhdCA9IHNlbGY7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>unwrap!(f64::from_str(always!(xml::find_single(&quot;CurrentPrice&quot;, ebay_item)))</text>
+        <text>segment</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -222,31 +226,31 @@
         <text encoding="base64">cHViIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGNhdCA9IHNlbGY7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb290ZXIgPSBkZWNvZGUoJCgnU2FsZUVsZW1lbnRbdHlwZT1Gb290ZXJFbGVtZW50XScpLnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcGljID07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXN0aW5nX2NhdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcGljRGlyID0gZGlyT2ZGaWxlKCcuLi8uLi8uLi9tbTEvJyk7Ly9sb2NhdGlvbnNbU0tVXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtdXQgbmV3X2NhdCA9IENhdGVnb3J5OjpuZXcoc2VnbWVudCk7CiAgICAgICAgICAgICAgICBjYXQuc3ViY2F0ZWdvcmllc1tzZWdtZW50XSA9IG5ld19jYXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAvLyAgIGFzc2VydF9lcSEodW50YWcoIjxhPmNvbnRlbnRzPC9hPiIpLCBTb21lKCJjb250ZW50cyIpKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I1ttYWNyb191c2VdIGV4dGVybiBjcmF0ZSByYWxseTsK</text>
+        <text encoding="base64">ICAgICAgICBmb290ZXIgPSBkZWNvZGUoJCgnU2FsZUVsZW1lbnRbdHlwZT1Gb290ZXJFbGVtZW50XScpLnRleHQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcGljID07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZuIGZpbmRfYXNzb2NpYXRlZF9waWN0dXJlcyhza3U6ICZzdHIpIC0+IFZlYzxTdHJpbmc+IHsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcGljRGlyID0gZGlyT2ZGaWxlKCcuLi8uLi8uLi9tbTEvJyk7Ly9sb2NhdGlvbnNbU0tVXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAvLyAgIGFzc2VydF9lcSEodW50YWcoIjxhPmNvbnRlbnRzPC9hPiIpLCBTb21lKCJjb250ZW50cyIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
