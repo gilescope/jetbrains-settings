@@ -99,11 +99,11 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497350740915">
-        <mark key="'" line="82" column="44" />
-        <mark key="[" line="492" column="35" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497353924251">
+        <mark key="'" line="243" column="14" />
+        <mark key="[" line="495" column="35" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/storage.rs" timestamp="1495046913279">
         <mark key="[" line="6" column="19" />
@@ -211,6 +211,7 @@
       <jump line="94" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
       <jump line="172" column="30" filename="$USER_HOME$/rust/rally/src/metalminnie/website.rs" />
       <jump line="83" column="44" filename="$USER_HOME$/rust/rally/ebay/src/website.rs" />
+      <jump line="241" column="14" filename="$USER_HOME$/rust/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
