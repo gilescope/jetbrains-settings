@@ -99,11 +99,12 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497286728616">
+      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497286956877">
         <mark key="'" line="82" column="44" />
-        <mark key="[" line="84" column="13" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="38" />
+        <mark key="." line="86" column="38" />
+        <mark key="^" line="86" column="38" />
       </file>
       <file name="$USER_HOME$/rust/rally/src/storage.rs" timestamp="1495046913279">
         <mark key="[" line="6" column="19" />
