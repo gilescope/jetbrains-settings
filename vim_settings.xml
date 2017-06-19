@@ -3,304 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/rust/rally/src/algebra.rs" timestamp="1495046449691">
-        <mark key="[" line="18" column="45" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1497913671751">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="327" column="19" />
+        <mark key="." line="327" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1495007769790">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/Cargo.toml" timestamp="1496733854562">
-        <mark key="[" line="38" column="23" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/lib.rs" timestamp="1495734970020">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/website.rs" timestamp="1496994600240">
-        <mark key="'" line="179" column="30" />
-        <mark key="[" line="404" column="23" />
-        <mark key="]" line="404" column="23" />
-        <mark key="." line="404" column="23" />
-        <mark key="^" line="396" column="11" />
-      </file>
-      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/macros.rs" timestamp="1496861380406">
-        <mark key="[" line="114" column="28" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/xml.rs" timestamp="1497413023155">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/bin.rs" timestamp="1495049844988">
-        <mark key="[" line="146" column="17" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/interpolate.rs" timestamp="1495047339408">
-        <mark key="[" line="77" column="13" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" timestamp="1495613074984">
-        <mark key="u" line="182" column="36" />
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1495992231745">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Header.html" timestamp="1496594252653">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Head.html" timestamp="1496593616209">
-        <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/stats.rs" timestamp="1495389088879">
-        <mark key="'" line="485" column="18" />
-        <mark key="[" line="469" column="35" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-      </file>
-      <file name="/GDB" timestamp="1493758977207">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/matrix.rs" timestamp="1495220786437">
-        <mark key="[" line="313" column="17" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" timestamp="1496734146092">
-        <mark key="'" line="304" column="38" />
-        <mark key="[" line="340" column="19" />
-        <mark key="]" line="344" column="14" />
-        <mark key="^" line="344" column="14" />
-        <mark key="." line="344" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1496339643555">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/shop/silver/categories/Footer.html" timestamp="1496647095964">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/imgstats.rs" timestamp="1495378892667">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/ebay/src/ebay.rs" timestamp="1497414538189">
-        <mark key="[" line="41" column="45" />
-        <mark key="]" line="41" column="45" />
-        <mark key="." line="41" column="45" />
-        <mark key="^" line="41" column="45" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Homepage.html" timestamp="1496647205994">
-        <mark key="[" line="42" column="55" />
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/ebay/src/website.rs" timestamp="1497597498876">
-        <mark key="'" line="269" column="25" />
-        <mark key="[" line="192" column="11" />
-        <mark key="]" line="192" column="11" />
-        <mark key="." line="192" column="11" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/storage.rs" timestamp="1495046913279">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/logging.rs" timestamp="1496966973504">
-        <mark key="[" line="62" column="29" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1494010411116">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Main.html" timestamp="1496595218990">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/Footer.html" timestamp="1496646492616">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rust/rally/src/metalminnie/templates/index.html" timestamp="1496647378825">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
+        <mark key="[" line="245" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="90" column="59" filename="$USER_HOME$/rust/rally/src/matcher.rs" />
-      <jump line="85" column="36" filename="$USER_HOME$/rust/rally/src/matcher.rs" />
-      <jump line="91" column="24" filename="$USER_HOME$/rust/rally/src/matcher.rs" />
-      <jump line="92" column="31" filename="$USER_HOME$/rust/rally/src/matcher.rs" />
-      <jump line="35" column="48" filename="$USER_HOME$/rust/rally/src/matcher.rs" />
-      <jump line="87" column="0" filename="$USER_HOME$/rust/rally/src/algebra.rs" />
-      <jump line="92" column="0" filename="$USER_HOME$/rust/rally/src/algebra.rs" />
-      <jump line="32" column="4" filename="$USER_HOME$/rust/rally/src/matrix.rs" />
-      <jump line="38" column="0" filename="$USER_HOME$/rust/rally/src/matrix.rs" />
-      <jump line="39" column="4" filename="$USER_HOME$/rust/rally/src/matrix.rs" />
-      <jump line="125" column="0" filename="$USER_HOME$/rust/rally/src/stats.rs" />
-      <jump line="110" column="12" filename="$USER_HOME$/rust/rally/src/stats.rs" />
-      <jump line="140" column="16" filename="$USER_HOME$/rust/rally/src/stats.rs" />
-      <jump line="8" column="7" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="38" column="0" filename="$USER_HOME$/rust/rally/tests/interpolate_test.rs" />
-      <jump line="42" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="38" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="37" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="34" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="21" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="20" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="32" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="29" column="4" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="28" column="0" filename="$USER_HOME$/rust/rally/src/time.rs" />
-      <jump line="0" column="17" filename="$USER_HOME$/rust/rally/src/money.rs" />
-      <jump line="19" column="0" filename="$USER_HOME$/rust/rally/src/money.rs" />
-      <jump line="26" column="36" filename="$USER_HOME$/rust/rally/src/money.rs" />
-      <jump line="2" column="0" filename="$USER_HOME$/rust/rally/src/lib.rs" />
-      <jump line="36" column="28" filename="$USER_HOME$/rust/rally/src/money.rs" />
-      <jump line="36" column="29" filename="$USER_HOME$/rust/rally/tests/interpolate_test.rs" />
-      <jump line="4" column="11" filename="$USER_HOME$/rust/rally/src/ebay.rs" />
-      <jump line="6" column="13" filename="$USER_HOME$/rust/rally/src/ebay.rs" />
-      <jump line="64" column="13" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="77" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="55" column="31" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="93" column="40" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="65" column="3" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="80" column="1" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="105" column="81" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="66" column="80" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="106" column="4" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="92" column="4" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="107" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="140" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="207" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="171" column="12" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="170" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="167" column="4" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="166" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="162" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="161" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="142" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="141" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="135" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="134" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="128" column="4" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="127" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="122" column="29" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="121" column="33" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="112" column="24" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="111" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="108" column="4" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="177" column="29" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="168" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="5" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
-      <jump line="330" column="62" filename="$USER_HOME$/rust/rally/src/stats.rs" />
-      <jump line="263" column="38" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay.rs" />
-      <jump line="462" column="18" filename="$USER_HOME$/rust/rally/src/stats.rs" />
-      <jump line="113" column="36" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
-      <jump line="99" column="17" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
-      <jump line="94" column="0" filename="$USER_HOME$/rust/rally/src/metalminnie/ebay_fetcher.rs" />
-      <jump line="172" column="30" filename="$USER_HOME$/rust/rally/src/metalminnie/website.rs" />
-      <jump line="83" column="44" filename="$USER_HOME$/rust/rally/ebay/src/website.rs" />
-      <jump line="241" column="14" filename="$USER_HOME$/rust/rally/ebay/src/website.rs" />
-      <jump line="175" column="25" filename="$USER_HOME$/rust/rally/ebay/src/website.rs" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>original</text>
-      </register>
-      <register name="-" type="4">
-        <text>original</text>
-      </register>
-      <register name="/" type="4">
-        <text>top</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">cHViIA==</text>
-      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwaWNzOiBwaWNzLAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBmb3IgaXRlbSBpbiBzZWxmLml0ZW1zIHsKICAgICAgICAgICAgcmVzdWx0cy5wdXNoKCk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xpRXJyb3I6OlBhcnNlKHJlZiBlcnIpID0+IFNvbWUoZXJyKSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xpRXJyb3I6OlBhcnNlKHJlZiBlcnIpID0+IGVycm9yOjpFcnJvcjo6ZGVzY3JpcHRpb24oZXJyKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xpRXJyb3I6OlBhcnNlKHJlZiBlcnIpID0+IHdyaXRlIShmLCAiUGFyc2UgZXJyb3I6IHt9IiwgZXJyKSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsd2F5cyEoCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICAgIHN0ZDo6cmVzdWx0OjpSZXN1bHQ6Ok9rKF8pID0+IHsKICAgICAgICAgICAgbG9nISgiQ2FjaGUgaGl0IHt9IiwgIiIpOwogICAgICAgICAgICBTb21lKGRhdGEpCiAgICAgICAgfSwKICAgICAgICBzdGQ6OnJlc3VsdDo6UmVzdWx0OjpFcnIobXNnKSA9PiBFcnIobXNnKQogICAgfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAjW3Rlc3RdIGZuIGNhbl9leHRyYWN0X3RhZygpCiAgICB7CiAgICAgICAgbGV0IGlucHV0OiAmc3RyID0gciMiPERlc2NyaXB0aW9uPiZsdDtodG1sJiBjbGFzcz0mcXVvdDtkZXNjcmlwdGlvbiZxdW90O2JvZHkmZ3Q7Jmx0Oy9odG1sJmd0OzwvRGVzY3JpcHRpb24+IiwgIjxEZXNjcmlwdGlvbj5SZXR1cm5zIGFjY2VwdGVkIHdpdGhpbiAxNCBkYXlzIGFmdGVyIGRlbGl2ZXJ5LiBHb29kcyBtdXN0IGJlIGFzIHJlY2VpdmVkLCB3ZWxsIHBhY2tlZCAmYW1wOyByZXR1cm5lZCB1c2luZyBhIHNpZ25hdHVyZSBvbiBhcnJpdmFsIGRlbGl2ZXJ5IHNlcnZpY2UgZS5nIHJlY29yZGVkIG9yIHNpZ25lZCBmb3IuWW91IHdpbGwgcmVjZWl2ZSBhIGZ1bGwgcmVmdW5kIGZvciB0aGUgcHJpY2Ugb2YgdGhlIGl0ZW0uPC9EZXNjcmlwdGlvbj4iIzsKICAgICAgICBhc3NlcnRfZXEhKGZpbmRfc2luZ2xlKCJEZXNjcmlwdGlvbiIsIGlucHV0KSwgU29tZSgiPEl0ZW0+PEl0ZW0+PC9JdGVtPjwvSXRlbT4iKSk7CiAgICB9</text>
-      </register>
-      <register name=":" type="4">
-        <text>help</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwaWNzOiBwaWNzLAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
-      <last-offset />
-      <last-pattern>top</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxleHRlcm5cPg==</entry>
-        <entry encoding="base64">XDxSZWFkXD4=</entry>
-        <entry>unwra</entry>
-        <entry>s</entry>
-        <entry>top</entry>
-      </history-search>
-      <history-cmd>
-        <entry>!pwd</entry>
-        <entry>!cd /</entry>
-        <entry>!ls</entry>
-        <entry>w</entry>
-        <entry>reg</entry>
-        <entry>help</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
     </editor>
