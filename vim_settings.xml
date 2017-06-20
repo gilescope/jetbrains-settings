@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1497913671751">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="327" column="19" />
-        <mark key="." line="327" column="0" />
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1497983432972">
+        <mark key="[" line="211" column="17" />
+        <mark key="]" line="212" column="25" />
+        <mark key="." line="212" column="25" />
+        <mark key="^" line="212" column="25" />
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
@@ -15,10 +17,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNzOiBwaWNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3ViY2F0ZWdvcmllcyA9IHY7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNzOiBwaWNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3ViY2F0ZWdvcmllcyA9IHY7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZi5pdGVtcyA9IGNoaWxkLml0ZW1zOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYgPSBjaGlsZC5zdWJjYXRlZ29yaWVzOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICBkZCAgICAgIChfLCBzZWxmLnN1YmNhdGVnb3JpZXMpID0gc2VsZi5zdWJjYXRlZ29yaWVzLnYK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG9ubHlfY2hpbGQ6IENhdGVnb3J5ID0gYWx3YXlzIShzZWxmLnN1YmNhdGVnb3JpZXMudmFsdWVzKCkubmV4dCgpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">djogY29sbGVjdGlvbnM6Okhhc2hNYXA8U3RyaW5nLCBDYXRlZ29yeT47</text>
       </register>
     </registers>
     <search>
