@@ -7,27 +7,28 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
-      <file name="/Dummy.txt" timestamp="1498153718216">
+      <file name="/Dummy.txt" timestamp="1498154530938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
       <file name="/LLDB" timestamp="1498063195389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498153835598">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498154404730">
         <mark key="[" line="387" column="5" />
         <mark key="]" line="384" column="28" />
         <mark key="." line="384" column="28" />
         <mark key="^" line="384" column="28" />
       </file>
+      <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498153759923">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="33" column="11" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498154883585">
+        <mark key="[" line="51" column="81" />
+        <mark key="]" line="51" column="81" />
+        <mark key="." line="51" column="81" />
+        <mark key="^" line="34" column="11" />
       </file>
     </filemarks>
     <jumps />
@@ -36,7 +37,7 @@
         <text encoding="base64">Ci8vdXNlIHN4ZF94cGF0aDo6bm9kZXNldDsKLy91c2Ugc3hkX3hwYXRoIGFzIHhwYXRoOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8vdXNlIHN4ZF94cGF0aDo6bm9kZXNldDsKLy91c2Ugc3hkX3hwYXRoIGFzIHhwYXRoOw==</text>
+        <text>String</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICBsZXQgbXV0IGYgPSB1bndyYXAhKGZzOjpGaWxlOjpvcGVuKGZpbGVuYW1lKSk7CiAgICBsZXQgbXV0IGRhdGEgPSBTdHJpbmc6Om5ldygpOwogICAgbWF0Y2ggZi5yZWFkX3RvX3N0cmluZygmbXV0IGRhdGEpIHsKICAgICAgICByZXN1bHQ6OlJlc3VsdDo6T2soXykgPT4gewogICAgICAgICAgICBsb2chKCJDYWNoZSBoaXQge30iLCAiIik7CiAgICAgICAgICAgIHJlc3VsdDo6UmVzdWx0OjpPayhkYXRhKQogICAgICAgIH0sCiAgICAgICAgcmVzdWx0OjpSZXN1bHQ6OkVycihlKSA9PiBzdGQ6OnJlc3VsdDo6UmVzdWx0OjpFcnIoZS5kZXNjcmlwdGlvbigpLmludG8oKSkKICAgIH0=</text>
@@ -63,7 +64,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZi5pdGVtcyA9IGNoaWxkLml0ZW1zOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXN1bHQ6OlJlc3VsdDo6RXJyKGUpID0+</text>
+        <text>String</text>
       </register>
     </registers>
     <search>
