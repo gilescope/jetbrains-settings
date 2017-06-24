@@ -14,10 +14,10 @@
       <file name="/LLDB" timestamp="1498241757352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498241992630">
-        <mark key="[" line="118" column="19" />
-        <mark key="]" line="118" column="57" />
-        <mark key="." line="118" column="57" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498295351407">
+        <mark key="[" line="388" column="8" />
+        <mark key="]" line="388" column="8" />
+        <mark key="." line="388" column="8" />
         <mark key="^" line="118" column="57" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
@@ -37,7 +37,7 @@
         <text encoding="base64">Ci8vdXNlIHN4ZF94cGF0aDo6bm9kZXNldDsKLy91c2Ugc3hkX3hwYXRoIGFzIHhwYXRoOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>template</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICBsZXQgbXV0IGYgPSB1bndyYXAhKGZzOjpGaWxlOjpvcGVuKGZpbGVuYW1lKSk7CiAgICBsZXQgbXV0IGRhdGEgPSBTdHJpbmc6Om5ldygpOwogICAgbWF0Y2ggZi5yZWFkX3RvX3N0cmluZygmbXV0IGRhdGEpIHsKICAgICAgICByZXN1bHQ6OlJlc3VsdDo6T2soXykgPT4gewogICAgICAgICAgICBsb2chKCJDYWNoZSBoaXQge30iLCAiIik7CiAgICAgICAgICAgIHJlc3VsdDo6UmVzdWx0OjpPayhkYXRhKQogICAgICAgIH0sCiAgICAgICAgcmVzdWx0OjpSZXN1bHQ6OkVycihlKSA9PiBzdGQ6OnJlc3VsdDo6UmVzdWx0OjpFcnIoZS5kZXNjcmlwdGlvbigpLmludG8oKSkKICAgIH0=</text>
@@ -64,7 +64,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZi5pdGVtcyA9IGNoaWxkLml0ZW1zOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>template</text>
       </register>
     </registers>
     <search>
