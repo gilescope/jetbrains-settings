@@ -11,14 +11,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
-      <file name="/LLDB" timestamp="1498300710110">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498300748269">
-        <mark key="[" line="388" column="8" />
-        <mark key="]" line="388" column="8" />
-        <mark key="." line="388" column="8" />
-        <mark key="^" line="118" column="57" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498368595850">
+        <mark key="[" line="120" column="10" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
