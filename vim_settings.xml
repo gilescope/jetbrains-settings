@@ -11,60 +11,71 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
-      <file name="/LLDB" timestamp="1498464923381">
+      <file name="/LLDB" timestamp="1498504079986">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498465132713">
-        <mark key="[" line="120" column="10" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="119" column="0" />
+      <file name="$USER_HOME$/rally/src/logging.rs" timestamp="1498502176136">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498504217197">
+        <mark key="[" line="417" column="29" />
+        <mark key="]" line="417" column="29" />
+        <mark key="." line="417" column="29" />
+        <mark key="^" line="127" column="1" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
+      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498502663542">
+        <mark key="[" line="23" column="6" />
+      </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498154883585">
-        <mark key="[" line="51" column="81" />
-        <mark key="]" line="51" column="81" />
-        <mark key="." line="51" column="81" />
-        <mark key="^" line="34" column="11" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498503106299">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+        <mark key="^" line="51" column="28" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1498502670102">
+        <mark key="[" line="18" column="16" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8vdXNlIHN4ZF94cGF0aDo6bm9kZXNldDsKLy91c2Ugc3hkX3hwYXRoIGFzIHhwYXRoOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>template</text>
+        <text>tem.img.startsWith('http:')?item.img : item.img.substring('../../../'.length)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBsZXQgbXV0IGYgPSB1bndyYXAhKGZzOjpGaWxlOjpvcGVuKGZpbGVuYW1lKSk7CiAgICBsZXQgbXV0IGRhdGEgPSBTdHJpbmc6Om5ldygpOwogICAgbWF0Y2ggZi5yZWFkX3RvX3N0cmluZygmbXV0IGRhdGEpIHsKICAgICAgICByZXN1bHQ6OlJlc3VsdDo6T2soXykgPT4gewogICAgICAgICAgICBsb2chKCJDYWNoZSBoaXQge30iLCAiIik7CiAgICAgICAgICAgIHJlc3VsdDo6UmVzdWx0OjpPayhkYXRhKQogICAgICAgIH0sCiAgICAgICAgcmVzdWx0OjpSZXN1bHQ6OkVycihlKSA9PiBzdGQ6OnJlc3VsdDo6UmVzdWx0OjpFcnIoZS5kZXNjcmlwdGlvbigpLmludG8oKSkKICAgIH0=</text>
+        <text encoding="base64">IGxldCBtdXQgaSA9IDM7CgogICAgaSA9IGkgKyAxOwoKICAgIC8vbGV0IHYgPSB2ZWMhW1N0cmluZzo6ZnJvbSgiQW5vdGhlciIpLCBTdHJpbmc6OmZyb20oIkxldmVsIildOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBjYXRfdHJlZSA9IENhdGVnb3J5OjpuZXcoIkRpcmVjdCBTYWxlcyIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I1tmZWF0dXJlKHRvb3duZWRfY2xvbmVfaW50byldCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgLy8gbGV0IG11dCBmID0gdW53cmFwIShmczo6RmlsZTo6b3BlKCZmaWxlbmFtZSkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vcHJpbnRsbiEoInt9IiwgJnJlc3VsdCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vcHJpbnRsbiEoInt9IiwgeCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgZGF0YSA9IFN0cmluZzo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB4ID0gImF7bGlua3N9YiIucmVwbGFjZSgie2xpbmtzfSIsICJoaSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3ViY2F0ZWdvcmllcyA9IHY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZi5pdGVtcyA9IGNoaWxkLml0ZW1zOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>template</text>
+        <text>tem.img.startsWith('http:')?item.img : item.img.substring('../../../'.length)</text>
       </register>
     </registers>
     <search>
