@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1498116730351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498154530938">
+      <file name="/Dummy.txt" timestamp="1498587291425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/logging.rs" timestamp="1498502176136">
@@ -14,14 +14,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498549762671">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="0" />
-        <mark key="." line="257" column="0" />
-        <mark key="^" line="257" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498587737272">
+        <mark key="[" line="287" column="20" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="285" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
-      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498502663542">
+      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
@@ -29,7 +29,7 @@
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
-      <file name="/LLDB" timestamp="1498504079986">
+      <file name="/LLDB" timestamp="1498550035360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498503106299">
@@ -46,34 +46,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBkZCAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tem.img.startsWith('http:')?item.img : item.img.substring('../../../'.length)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZCAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGxldCBtdXQgaSA9IDM7CgogICAgaSA9IGkgKyAxOwoKICAgIC8vbGV0IHYgPSB2ZWMhW1N0cmluZzo6ZnJvbSgiQW5vdGhlciIpLCBTdHJpbmc6OmZyb20oIkxldmVsIildOwo=</text>
+        <text encoding="base64">ICAgICAgICAgbGV0IG11dCBidWYgPSBTdHJpbmc6Om5ldygpOwogICAgICAgICAgICBsZXQgc2xhc2hlcyA9IHJlbGF0aXZlX2xvY2F0aW9uLnNwbGl0KCcvJykuY291bnQoKTsKICAgICAgICAgICAgZm9yIF8gaW4gMC4uc2xhc2hlcyB7CiAgICAgICAgICAgICAgICBidWYucHVzaF9zdHIoIi4uLyIpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGZvciBzdWJjYXQgaW4gc3ViX2NhdHMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHN1YmNhdCk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRsbiEoInt9IiwgJnJlc3VsdCk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8vICAgICAgICBmb3IgaXRlbSBpbiAmc2VsZi5pdGVtcyB7Ci8vICAgICAgICAgICAgcmVzdWx0cy5wdXNoKCZpdGVtKTsKLy8gICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBmb3Igc3ViaXRlbSBpbiBzdWJfaXRlbXMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHN1Yml0ZW0pOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRsbiEoInt9IiwgeCk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBmb3IgaXRlbSBpbiBjYXQuaXRlbXMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKGl0ZW0pOwogICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gImF7bGlua3N9YiIucmVwbGFjZSgie2xpbmtzfSIsICJoaSIpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGxldCBtdXQgaSA9IDM7CgogICAgaSA9IGkgKyAxOwoKICAgIC8vbGV0IHYgPSB2ZWMhW1N0cmluZzo6ZnJvbSgiQW5vdGhlciIpLCBTdHJpbmc6OmZyb20oIkxldmVsIildOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>tem.img.startsWith('http:')?item.img : item.img.substring('../../../'.length)</text>
