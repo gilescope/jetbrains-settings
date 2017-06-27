@@ -6,12 +6,7 @@
       <file name="/start_script.py" timestamp="1498116730351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
       <file name="/Dummy.txt" timestamp="1498154530938">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
-      <file name="/LLDB" timestamp="1498504079986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/logging.rs" timestamp="1498502176136">
@@ -19,7 +14,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498548317320">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498549762671">
         <mark key="[" line="257" column="0" />
         <mark key="]" line="257" column="0" />
         <mark key="." line="257" column="0" />
@@ -32,6 +27,11 @@
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
+      <file name="/LLDB" timestamp="1498504079986">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498503106299">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="51" column="28" />
@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1498502670102">
         <mark key="[" line="18" column="16" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/liballoc/str.rs" timestamp="1498549336364" />
     </filemarks>
     <jumps />
     <registers>
