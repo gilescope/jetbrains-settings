@@ -14,11 +14,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498587737272">
-        <mark key="[" line="287" column="20" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
-        <mark key="^" line="285" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498589156935">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="140" column="37" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
@@ -29,7 +29,7 @@
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498063078299" />
-      <file name="/LLDB" timestamp="1498550035360">
+      <file name="/LLDB" timestamp="1498589162856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498503106299">
@@ -45,35 +45,35 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkZCAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAvL2Fzc2VydF9lcSEoIm9uZXR3b3RocmVlIiwgIm9uZXR3b3RocmVlZSIpOwogICAgLy9wcmludGxuISgiezo/fSIsIHYpOw==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZCAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAvL2Fzc2VydF9lcSEoIm9uZXR3b3RocmVlIiwgIm9uZXR3b3RocmVlZSIpOwogICAgLy9wcmludGxuISgiezo/fSIsIHYpOw==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgbGV0IG11dCBidWYgPSBTdHJpbmc6Om5ldygpOwogICAgICAgICAgICBsZXQgc2xhc2hlcyA9IHJlbGF0aXZlX2xvY2F0aW9uLnNwbGl0KCcvJykuY291bnQoKTsKICAgICAgICAgICAgZm9yIF8gaW4gMC4uc2xhc2hlcyB7CiAgICAgICAgICAgICAgICBidWYucHVzaF9zdHIoIi4uLyIpOwogICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZCAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGZvciBzdWJjYXQgaW4gc3ViX2NhdHMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHN1YmNhdCk7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgbGV0IG11dCBidWYgPSBTdHJpbmc6Om5ldygpOwogICAgICAgICAgICBsZXQgc2xhc2hlcyA9IHJlbGF0aXZlX2xvY2F0aW9uLnNwbGl0KCcvJykuY291bnQoKTsKICAgICAgICAgICAgZm9yIF8gaW4gMC4uc2xhc2hlcyB7CiAgICAgICAgICAgICAgICBidWYucHVzaF9zdHIoIi4uLyIpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBmb3IgaXRlbSBpbiAmc2VsZi5pdGVtcyB7Ci8vICAgICAgICAgICAgcmVzdWx0cy5wdXNoKCZpdGVtKTsKLy8gICAgICAgIH0=</text>
+        <text encoding="base64">IGZvciBzdWJjYXQgaW4gc3ViX2NhdHMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHN1YmNhdCk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBmb3Igc3ViaXRlbSBpbiBzdWJfaXRlbXMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHN1Yml0ZW0pOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">Ci8vICAgICAgICBmb3IgaXRlbSBpbiAmc2VsZi5pdGVtcyB7Ci8vICAgICAgICAgICAgcmVzdWx0cy5wdXNoKCZpdGVtKTsKLy8gICAgICAgIH0=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICBmb3Igc3ViaXRlbSBpbiBzdWJfaXRlbXMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHN1Yml0ZW0pOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICBmb3IgaXRlbSBpbiBjYXQuaXRlbXMgewogICAgICAgICAgICAgICAgcmVzdWx0cy5wdXNoKGl0ZW0pOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGxldCBtdXQgaSA9IDM7CgogICAgaSA9IGkgKyAxOwoKICAgIC8vbGV0IHYgPSB2ZWMhW1N0cmluZzo6ZnJvbSgiQW5vdGhlciIpLCBTdHJpbmc6OmZyb20oIkxldmVsIildOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>tem.img.startsWith('http:')?item.img : item.img.substring('../../../'.length)</text>
