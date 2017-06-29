@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1498116730351">
@@ -14,10 +14,10 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498589156935">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1498638960686">
+        <mark key="[" line="137" column="11" />
+        <mark key="]" line="137" column="11" />
+        <mark key="." line="137" column="11" />
         <mark key="^" line="140" column="37" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
@@ -28,7 +28,7 @@
         <mark key="[" line="245" column="0" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1497944426898" />
-      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498637543296" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1498638801461" />
       <file name="/LLDB" timestamp="1498589162856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,7 +49,7 @@
         <text encoding="base64">CiAgICAvL2Fzc2VydF9lcSEoIm9uZXR3b3RocmVlIiwgIm9uZXR3b3RocmVlZSIpOwogICAgLy9wcmludGxuISgiezo/fSIsIHYpOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAvL2Fzc2VydF9lcSEoIm9uZXR3b3RocmVlIiwgIm9uZXR3b3RocmVlZSIpOwogICAgLy9wcmludGxuISgiezo/fSIsIHYpOw==</text>
+        <text encoding="base64">IGxvZyEoInNhdmluZyBpdGVtLi4uIik7</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBkZCAK</text>
@@ -76,7 +76,7 @@
         <text encoding="base64">IGxldCBtdXQgaSA9IDM7CgogICAgaSA9IGkgKyAxOwoKICAgIC8vbGV0IHYgPSB2ZWMhW1N0cmluZzo6ZnJvbSgiQW5vdGhlciIpLCBTdHJpbmc6OmZyb20oIkxldmVsIildOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>tem.img.startsWith('http:')?item.img : item.img.substring('../../../'.length)</text>
+        <text encoding="base64">IGxvZyEoInNhdmluZyBpdGVtLi4uIik7</text>
       </register>
     </registers>
     <search>
