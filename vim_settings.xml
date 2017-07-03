@@ -17,11 +17,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499017883047">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499018921463">
         <mark key="u" line="493" column="8" />
-        <mark key="[" line="198" column="139" />
-        <mark key="]" line="198" column="143" />
-        <mark key="." line="198" column="143" />
+        <mark key="[" line="126" column="2" />
+        <mark key="]" line="126" column="2" />
+        <mark key="." line="126" column="2" />
         <mark key="^" line="198" column="143" />
       </file>
       <file name="$USER_HOME$/rally/src/interpolate.rs" timestamp="1498154562528" />
@@ -62,7 +62,7 @@
         <text encoding="base64">ICAgbGV0IGggPSBjb2xsZWN0aW9uczo6SGFzaFNldDo6bmV3KCk7CiAgICBoLmluc2VydCgncycpOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgbGV0IGggPSBjb2xsZWN0aW9uczo6SGFzaFNldDo6bmV3KCk7CiAgICBoLmluc2VydCgncycpOw==</text>
+        <text encoding="base64">ICBsZXQgbXV0IHJvb3QgPSByb290Ow==</text>
       </register>
       <register name="2" type="4">
         <text>t s = String::new();
@@ -90,7 +90,7 @@
         <text encoding="base64">ICAgIHZhcnMuaW5zZXJ0KCJ7bGlua3N9IiwgJmJ1Zik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgPEZvb3RlciBpdGVtPXt0aGlzLnByb3BzfSB0aXRsZT17dGhpcy5wcm9wcy50aXRsZX0gU0tVPXt0aGlzLnByb3BzLlNLVX0gLz4=</text>
+        <text encoding="base64">ICBsZXQgbXV0IHJvb3QgPSByb290Ow==</text>
       </register>
     </registers>
     <search>
