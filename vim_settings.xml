@@ -17,12 +17,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499196445491">
-        <mark key="u" line="527" column="8" />
-        <mark key="[" line="355" column="31" />
-        <mark key="]" line="356" column="20" />
-        <mark key="." line="356" column="20" />
-        <mark key="^" line="356" column="20" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499200543493">
+        <mark key="u" line="530" column="8" />
+        <mark key="[" line="362" column="23" />
+        <mark key="]" line="362" column="22" />
+        <mark key="^" line="362" column="22" />
+        <mark key="." line="362" column="22" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -55,35 +55,35 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICAgbGV0IGggPSBjb2xsZWN0aW9uczo6SGFzaFNldDo6bmV3KCk7CiAgICBoLmluc2VydCgncycpOw==</text>
+        <text encoding="base64">ICAgIGxldCBub2RlID0gaWYgbGV0IE9wdGlvbjo6U29tZShuKSA9IG5vZGVfb3B0IHsKICAgICAgICAgICAgbgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICZtdXQgc2VsZi5yb290CiAgICAgICAgfTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgc2VsZi5zdWJjYXRlZ29yaWVzID0gY2guc3ViY2F0ZWdvcmllczs=</text>
+        <text encoding="base64">ICAgIGxldCBub2RlID0gaWYgbGV0IE9wdGlvbjo6U29tZShuKSA9IG5vZGVfb3B0IHsKICAgICAgICAgICAgbgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICZtdXQgc2VsZi5yb290CiAgICAgICAgfTs=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgbGV0IG11dCBsb29rdXA6IGNvbGxlY3Rpb25zOjpIYXNoTWFwPFN0cmluZywgJkNhdGVnb3J5PiA9IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgbGV0IGggPSBjb2xsZWN0aW9uczo6SGFzaFNldDo6bmV3KCk7CiAgICBoLmluc2VydCgncycpOw==</text>
+      </register>
+      <register name="4" type="4">
         <text>t s = String::new();
     s[0] = 's';</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICAKCgoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIGxldCB2YXJzID0gaGFzaG1hcCF7CiAgICAgICAgIntoZWFkfSIgPT4gaGVhZAogICAgfTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBmb3IgKGssIHYpIGluIGhlYWRfdmFycyB7CiAgICAgICAgaGVhZCA9IGhlYWQucmVwbGFjZShrLCB2KTsKICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBjb250ZW50cyA6ICZzdHIgPSA7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhcnMuaW5zZXJ0KCJ7bGlua3N9IiwgJmJ1Zik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgc2VsZi5zdWJjYXRlZ29yaWVzID0gY2guc3ViY2F0ZWdvcmllczs=</text>
