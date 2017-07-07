@@ -17,8 +17,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499274006447">
-        <mark key="u" line="563" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499367593450">
+        <mark key="u" line="570" column="8" />
+        <mark key="[" line="105" column="8" />
+        <mark key="]" line="105" column="8" />
+        <mark key="." line="105" column="8" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -54,7 +57,7 @@
         <text encoding="base64">CiAgICAgICAgICAgIC8vbGV0IGFhID0gYWx3YXlzIShzZWxmLnN1YmNhdGVnb3JpZXMuZ2V0X211dChzZWdtZW50KSk7CiAgICAgICAgICAgIC8vYWEuZ2V0X29yX2NyZWF0ZShwYXRoLCBsb29rdXAp</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vbGV0IGFhID0gYWx3YXlzIShzZWxmLnN1YmNhdGVnb3JpZXMuZ2V0X211dChzZWdtZW50KSk7CiAgICAgICAgICAgIC8vYWEuZ2V0X29yX2NyZWF0ZShwYXRoLCBsb29rdXAp</text>
+        <text encoding="base64">IG11dCBsb29rdXA6ICYnYSBtdXQgY29sbGVjdGlvbnM6Okhhc2hNYXA8U3RyaW5nLCAmJ2EgQ2F0ZWdvcnk+</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICAvL2xldCBuZXdfY2F0OiAmJ2EgQ2F0ZWdvcnkgPQovLyAgICAgICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgICAgIC8vbGV0IHggPSAmbXV0IHNlbGY7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfc3ViY2F0ZWdvcnkoc2VnbWVudCwgbG9va3VwKTsKLy8gICAgICAgICAgICAgICAgICAgIH0=</text>
@@ -82,7 +85,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgLy9sZXQgbmV3X2NhdCA9IENhdGVnb3J5OjpuZXcoY2F0X3RpdGxlKTs=</text>
+        <text encoding="base64">IG11dCBsb29rdXA6ICYnYSBtdXQgY29sbGVjdGlvbnM6Okhhc2hNYXA8U3RyaW5nLCAmJ2EgQ2F0ZWdvcnk+</text>
       </register>
     </registers>
     <search>
