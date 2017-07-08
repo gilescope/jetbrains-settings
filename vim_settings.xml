@@ -17,11 +17,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499427297700">
-        <mark key="u" line="576" column="8" />
-        <mark key="[" line="105" column="8" />
-        <mark key="]" line="105" column="8" />
-        <mark key="." line="105" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499506993933">
+        <mark key="u" line="585" column="8" />
+        <mark key="[" line="155" column="4" />
+        <mark key="]" line="155" column="4" />
+        <mark key="." line="155" column="4" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -57,7 +57,7 @@
         <text encoding="base64">CiAgICAgICAgICAgIC8vbGV0IGFhID0gYWx3YXlzIShzZWxmLnN1YmNhdGVnb3JpZXMuZ2V0X211dChzZWdtZW50KSk7CiAgICAgICAgICAgIC8vYWEuZ2V0X29yX2NyZWF0ZShwYXRoLCBsb29rdXAp</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG11dCBsb29rdXA6ICYnYSBtdXQgY29sbGVjdGlvbnM6Okhhc2hNYXA8U3RyaW5nLCAmJ2EgQ2F0ZWdvcnk+</text>
+        <text>//TODO: Once built all categories, can build hashmap of them...</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICAvL2xldCBuZXdfY2F0OiAmJ2EgQ2F0ZWdvcnkgPQovLyAgICAgICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgICAgIC8vbGV0IHggPSAmbXV0IHNlbGY7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfc3ViY2F0ZWdvcnkoc2VnbWVudCwgbG9va3VwKTsKLy8gICAgICAgICAgICAgICAgICAgIH0=</text>
@@ -85,7 +85,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG11dCBsb29rdXA6ICYnYSBtdXQgY29sbGVjdGlvbnM6Okhhc2hNYXA8U3RyaW5nLCAmJ2EgQ2F0ZWdvcnk+</text>
+        <text>//TODO: Once built all categories, can build hashmap of them...</text>
       </register>
     </registers>
     <search>
