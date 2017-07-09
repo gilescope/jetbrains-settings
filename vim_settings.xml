@@ -17,11 +17,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499506993933">
-        <mark key="u" line="585" column="8" />
-        <mark key="[" line="155" column="4" />
-        <mark key="]" line="155" column="4" />
-        <mark key="." line="155" column="4" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499602827612">
+        <mark key="u" line="589" column="8" />
+        <mark key="[" line="415" column="24" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="241" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
