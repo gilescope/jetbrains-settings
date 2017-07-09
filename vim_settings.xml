@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1498116730351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498587291425">
+      <file name="/Dummy.txt" timestamp="1499623479333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1498809227706">
@@ -17,12 +17,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499602827612">
-        <mark key="u" line="589" column="8" />
-        <mark key="[" line="415" column="24" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
-        <mark key="^" line="241" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499623339782">
+        <mark key="a" line="425" column="52" />
+        <mark key="u" line="600" column="8" />
+        <mark key="[" line="433" column="0" />
+        <mark key="]" line="433" column="0" />
+        <mark key="." line="433" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -36,10 +36,13 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1498589162856">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1499623498527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1498503106299">
+      <file name="/LLDB" timestamp="1499623561334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="51" column="28" />
         <mark key="." line="51" column="28" />
@@ -54,39 +57,38 @@
       <jump line="121" column="0" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vbGV0IGFhID0gYWx3YXlzIShzZWxmLnN1YmNhdGVnb3JpZXMuZ2V0X211dChzZWdtZW50KSk7CiAgICAgICAgICAgIC8vYWEuZ2V0X29yX2NyZWF0ZShwYXRoLCBsb29rdXAp</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>//TODO: Once built all categories, can build hashmap of them...</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICAvL2xldCBuZXdfY2F0OiAmJ2EgQ2F0ZWdvcnkgPQovLyAgICAgICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgICAgIC8vbGV0IHggPSAmbXV0IHNlbGY7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfc3ViY2F0ZWdvcnkoc2VnbWVudCwgbG9va3VwKTsKLy8gICAgICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAgICAgIC8vVE9ETyByZXZlcnNlIGFuZCBidWlsZCB1cCAtIG5vIG11dGF0aW9uIHJlcXVpcmVkIGFsbW9zdC4KICAgICAgICBsZXQgbXV0IHJlc3VsdCA9IENhdGVnb3J5OjpuZXcoc2VnbWVudCk7CiAgICAgICAgewogICAgICAgICAgICBsZXQgbXV0IHBhcmVudDogJm11dCBDYXRlZ29yeSA9ICZtdXQgcmVzdWx0OwoKICAgICAgICAgICAgd2hpbGUgbGV0IFNvbWUoc2VnKSA9IHBhdGgubmV4dCgpIHsKICAgICAgICAgICAgICAgIGxldCBtdXQgbmV4dF9jYXQgPSBDYXRlZ29yeTo6bmV3KHNlZyk7CiAgICAgICAgICAgICAgICBwYXJlbnQuc3ViY2F0ZWdvcmllcy5pbnNlcnQoU3RyaW5nOjpmcm9tKHNlZyksIG5leHRfY2F0KTsKCiAgICAgICAgICAgICAgICBwYXJlbnQgPSAmbXV0IHBhcmVudC5zdWJjYXRlZ29yaWVzLmdldF9tdXQoc2VnKS51bndyYXAoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGxldCBub2RlID0gaWYgbGV0IE9wdGlvbjo6U29tZShuKSA9IG5vZGVfb3B0IHsKICAgICAgICAgICAgbgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICZtdXQgc2VsZi5yb290CiAgICAgICAgfTs=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgbGV0IG11dCBsb29rdXA6IGNvbGxlY3Rpb25zOjpIYXNoTWFwPFN0cmluZywgJkNhdGVnb3J5PiA9IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgbGV0IGggPSBjb2xsZWN0aW9uczo6SGFzaFNldDo6bmV3KCk7CiAgICBoLmluc2VydCgncycpOw==</text>
-      </register>
-      <register name="7" type="4">
-        <text>t s = String::new();
-    s[0] = 's';</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvL2xldCBtdXQgciA9IHJvb3Q7</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgLy9UT0RPIGJlbG93IDIgbGluZXM=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIH0KICAgICAgICAgICAgLy9zcGVjaWZpY19jYXQuYWRkX2l0ZW0oaXRlbSk7</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgLy9sZXQgbXV0IGNtX211dDogJm11dCBDYXRlZ29yeU1hbmFnZXIgPSAmbXV0IGNtOwogICAgICAgICAgICAvL2xldCBtdXQgc3BlY2lmaWNfY2F0ID0KICAgICAgICAgICAgew==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vbGV0IGFhID0gYWx3YXlzIShzZWxmLnN1YmNhdGVnb3JpZXMuZ2V0X211dChzZWdtZW50KSk7CiAgICAgICAgICAgIC8vYWEuZ2V0X29yX2NyZWF0ZShwYXRoLCBsb29rdXAp</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICAvL2xldCBuZXdfY2F0OiAmJ2EgQ2F0ZWdvcnkgPQovLyAgICAgICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgICAgIC8vbGV0IHggPSAmbXV0IHNlbGY7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfc3ViY2F0ZWdvcnkoc2VnbWVudCwgbG9va3VwKTsKLy8gICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
       <register name="-" type="4">
-        <text>//TODO: Once built all categories, can build hashmap of them...</text>
+        <text encoding="base64">ICAgdGl0bGUgPSAmYWxpc2FfbmFtZS5jbG9uZSgpOw==</text>
       </register>
     </registers>
     <search>
