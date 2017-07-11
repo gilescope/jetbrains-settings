@@ -6,34 +6,25 @@
       <file name="/start_script.py" timestamp="1498116730351">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/GDB" timestamp="1499811710887">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499623479333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1498809227706">
         <mark key="[" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1498891563219">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1499623498527">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1499809347482">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/rally/src/logging.rs" timestamp="1498502176136">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499806728940">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499811987546">
         <mark key="a" line="479" column="52" />
         <mark key="u" line="657" column="8" />
         <mark key="'" line="121" column="33" />
-        <mark key="[" line="170" column="41" />
+        <mark key="[" line="267" column="5" />
         <mark key="]" line="160" column="46" />
         <mark key="." line="160" column="46" />
         <mark key="^" line="160" column="46" />
@@ -43,6 +34,18 @@
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1498891563219">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1499810507042">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1499811992807">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
         <mark key="[" line="38" column="0" />
