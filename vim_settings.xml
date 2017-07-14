@@ -15,19 +15,22 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1498809227706">
         <mark key="[" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/table.rs" timestamp="1500017861756">
+        <mark key="[" line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/src/logging.rs" timestamp="1498502176136">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1499979753748">
-        <mark key="a" line="483" column="52" />
-        <mark key="u" line="661" column="8" />
-        <mark key="'" line="125" column="33" />
+        <mark key="a" line="484" column="52" />
+        <mark key="u" line="662" column="8" />
+        <mark key="'" line="126" column="33" />
         <mark key="[" line="101" column="34" />
-        <mark key="]" line="164" column="46" />
-        <mark key="." line="164" column="46" />
-        <mark key="^" line="164" column="46" />
+        <mark key="]" line="165" column="46" />
+        <mark key="." line="165" column="46" />
+        <mark key="^" line="165" column="46" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -49,7 +52,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1499982843771">
+      <file name="/LLDB" timestamp="1500017564016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
