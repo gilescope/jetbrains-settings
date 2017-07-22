@@ -23,10 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1500659293097">
-        <mark key="a" line="524" column="52" />
-        <mark key="u" line="697" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1500713694145">
+        <mark key="a" line="529" column="52" />
+        <mark key="u" line="702" column="8" />
         <mark key="'" line="136" column="33" />
+        <mark key="[" line="178" column="18" />
+        <mark key="]" line="178" column="17" />
+        <mark key="^" line="178" column="17" />
+        <mark key="." line="178" column="17" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -48,7 +52,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1500449078385">
+      <file name="/LLDB" timestamp="1500712933213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
@@ -111,7 +115,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
