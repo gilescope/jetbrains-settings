@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="1000" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
