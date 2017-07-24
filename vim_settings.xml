@@ -9,7 +9,7 @@
       <file name="/GDB" timestamp="1499811710887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499842888323">
+      <file name="/Dummy.txt" timestamp="1500885572205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1498809227706">
@@ -23,14 +23,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1500832547023">
-        <mark key="a" line="533" column="52" />
-        <mark key="u" line="706" column="8" />
-        <mark key="'" line="137" column="33" />
-        <mark key="[" line="179" column="18" />
-        <mark key="]" line="179" column="17" />
-        <mark key="^" line="179" column="17" />
-        <mark key="." line="179" column="17" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1500885613016">
+        <mark key="a" line="528" column="52" />
+        <mark key="u" line="701" column="8" />
+        <mark key="'" line="136" column="33" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -47,7 +46,7 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1500577272127">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1500885591998">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/xml.rs" timestamp="1499843907210">
@@ -56,7 +55,7 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/macros.rs" timestamp="1500831970495" />
-      <file name="/LLDB" timestamp="1500713856216">
+      <file name="/LLDB" timestamp="1500885599985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
@@ -76,37 +75,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Ly91c2UgaXRlcnRvb2xzOjpncm91cGJ5bGF6eTsK</text>
+        <text encoding="base64">dXNlIHN0ZDo6aW86OnN0ZG91dDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIHN0ZDo6aW86OnN0ZG91dDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGl0ZXJ0b29sczo6SXRlcnRvb2xzOwo=</text>
+        <text encoding="base64">ICAgIGxvZyEoImdvdCBoZXJlMTIyIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6Y21wOwo=</text>
+        <text encoding="base64">ICAgIGxvZyEoImdvdCBoZXJlMTEiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6cmM7Cg==</text>
+        <text encoding="base64">ICAgIGxvZyEoImdvdCBoZXJlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6bWVtOwo=</text>
+        <text encoding="base64">ICAgIGxvZyEoImdvdCBoZXJlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGxvZyEoImdvdCBoZXJlIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxvZyEoImdvdCBoZXJlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcmluZwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZuIGNtcCgmc2VsZiwgb3RoZXI6ICZTZWxmKSAtPiBjbXA6Ok9yZGVyaW5nIHsK</text>
+        <text encoding="base64">Ly91c2UgaXRlcnRvb2xzOjpncm91cGJ5bGF6eTsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICBjaGlsZC5pdGVtcy5leHRlbmQoaXRlbXMpOw==</text>
       </register>
     </registers>
     <search>
