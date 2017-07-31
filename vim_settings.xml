@@ -23,13 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501488148063">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501525320341">
         <mark key="a" line="514" column="52" />
-        <mark key="u" line="681" column="8" />
+        <mark key="u" line="697" column="8" />
         <mark key="'" line="135" column="33" />
-        <mark key="[" line="220" column="6" />
-        <mark key="]" line="247" column="0" />
-        <mark key="." line="247" column="0" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="217" column="28" />
+        <mark key="." line="217" column="28" />
+        <mark key="^" line="217" column="28" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -54,7 +55,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1501488202334">
+      <file name="/LLDB" timestamp="1501490003611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
@@ -74,37 +75,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6aW86OnN0ZG91dCgpLmZsdXNoKCk/Owo=</text>
+        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6aW86OnN0ZG91dCgpLmZsdXNoKCk/Owo=</text>
+        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAvL2ZvciAoayx2KSBpbiBtYXAuaW50b19pdGVyKCkgewogICAgICAgIC8vICAgIGNtLmFsaWFzKGssIHYpOwogICAgICAgIC8vfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="4" type="4">
+        <text>//    for r in cm.aliases.keys()
+//        {
+//            log!(&quot;key  {:#?}&quot;, r)
+//        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIGxldCB0b3RhbF9pdGVtcyA9IHBhcnNlZF9pdGVtcy5sZW4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6aW86OnN0ZG91dCgpLmZsdXNoKCk/Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjbS5sb29rdXAuaW5zZXJ0KGNhdC50aXRsZS5jbG9uZSgpLCAmY2F0KTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoaWxlIGxldCBTb21lKGNhdCkgPSBjYXRzX2l0ZXIubmV4dCgpIHsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vbG9nISgiQnVpbGRpbmcgY2F0IHs6P30gIiwgJnYpOw==</text>
+        <text encoding="base64">bWFwOiAmbXV0IGNvbGxlY3Rpb25zOjpIYXNoTWFwPFN0cmluZywgU3RyaW5nPg==</text>
       </register>
     </registers>
     <search>
