@@ -23,14 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501659697874">
-        <mark key="a" line="516" column="52" />
-        <mark key="u" line="703" column="8" />
-        <mark key="'" line="136" column="33" />
-        <mark key="[" line="267" column="27" />
-        <mark key="]" line="504" column="32" />
-        <mark key="." line="504" column="32" />
-        <mark key="^" line="504" column="32" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501699287295">
+        <mark key="a" line="519" column="52" />
+        <mark key="u" line="706" column="8" />
+        <mark key="'" line="137" column="33" />
+        <mark key="[" line="284" column="20" />
+        <mark key="]" line="284" column="19" />
+        <mark key="." line="285" column="27" />
+        <mark key="^" line="507" column="32" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -74,11 +74,14 @@
       <jump line="117" column="33" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text />
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZvciBjYXQgaW4gJnNlbGYucm9vdC5hbGxfY2F0ZWdvcmllcygpIA==</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -108,7 +111,7 @@
         <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvciBjYXQgaW4gJnNlbGYucm9vdC5hbGxfY2F0ZWdvcmllcygpIA==</text>
+        <text />
       </register>
     </registers>
     <search>
