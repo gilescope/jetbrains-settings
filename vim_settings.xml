@@ -23,14 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501749753649">
-        <mark key="a" line="522" column="52" />
-        <mark key="u" line="712" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501784628353">
+        <mark key="a" line="536" column="8" />
+        <mark key="u" line="713" column="8" />
         <mark key="'" line="139" column="33" />
-        <mark key="[" line="711" column="26" />
-        <mark key="]" line="711" column="26" />
-        <mark key="." line="711" column="26" />
-        <mark key="^" line="510" column="32" />
+        <mark key="[" line="544" column="52" />
+        <mark key="]" line="199" column="15" />
+        <mark key="." line="199" column="15" />
+        <mark key="^" line="199" column="22" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -78,31 +78,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QK</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvL2ZvciAoayx2KSBpbiBtYXAuaW50b19pdGVyKCkgewogICAgICAgIC8vICAgIGNtLmFsaWFzKGssIHYpOwogICAgICAgIC8vfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//    for r in cm.aliases.keys()
 //        {
 //            log!(&quot;key  {:#?}&quot;, r)
 //        }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxldCB0b3RhbF9pdGVtcyA9IHBhcnNlZF9pdGVtcy5sZW4oKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6aW86OnN0ZG91dCgpLmZsdXNoKCk/Owo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIHN0ZDo6aW86OnN0ZG91dCgpLmZsdXNoKCk/Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Ly8K</text>
@@ -111,7 +111,7 @@
         <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.</text>
       </register>
     </registers>
     <search>
