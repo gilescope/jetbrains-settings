@@ -23,14 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501784628353">
-        <mark key="a" line="536" column="8" />
-        <mark key="u" line="713" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501834252767">
+        <mark key="a" line="546" column="8" />
+        <mark key="u" line="727" column="8" />
         <mark key="'" line="139" column="33" />
-        <mark key="[" line="544" column="52" />
-        <mark key="]" line="199" column="15" />
-        <mark key="." line="199" column="15" />
-        <mark key="^" line="199" column="22" />
+        <mark key="[" line="524" column="14" />
+        <mark key="]" line="524" column="50" />
+        <mark key="." line="524" column="50" />
+        <mark key="^" line="524" column="50" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -55,7 +55,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1501490003611">
+      <file name="/LLDB" timestamp="1501834128590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
