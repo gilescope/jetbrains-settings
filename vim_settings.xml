@@ -23,14 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1501834252767">
-        <mark key="a" line="546" column="8" />
-        <mark key="u" line="727" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502094576470">
+        <mark key="a" line="551" column="8" />
+        <mark key="u" line="753" column="8" />
         <mark key="'" line="139" column="33" />
-        <mark key="[" line="524" column="14" />
-        <mark key="]" line="524" column="50" />
-        <mark key="." line="524" column="50" />
-        <mark key="^" line="524" column="50" />
+        <mark key="[" line="239" column="19" />
+        <mark key="]" line="529" column="50" />
+        <mark key="." line="529" column="50" />
+        <mark key="^" line="529" column="50" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1498891563219">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1502094090040">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="86" column="7" />
+        <mark key="]" line="86" column="7" />
+        <mark key="." line="86" column="7" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1500885591998">
         <mark key="[" line="0" column="0" />
@@ -77,41 +77,41 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZW5zdXJlKGl0ZW0ucGljcykubWFwKGZ1bmN0aW9uKHBpYyl7CgogICAgICAgIHJldHVybiA8YSBocmVmPXtwaWN9IHRpdGxlPSIiIGtleT17cGljfT4KICAgICAgICAgIDxpbWcgc3JjPXtwaWN9IGFsdD0iIi8+CiAgICAgICAgPC9hPgogICAgICB9KX0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">ZW5zdXJlKGl0ZW0ucGljcykubWFwKGZ1bmN0aW9uKHBpYyl7CgogICAgICAgIHJldHVybiA8YSBocmVmPXtwaWN9IHRpdGxlPSIiIGtleT17cGljfT4KICAgICAgICAgIDxpbWcgc3JjPXtwaWN9IGFsdD0iIi8+CiAgICAgICAgPC9hPgogICAgICB9KX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvL2ZvciAoayx2KSBpbiBtYXAuaW50b19pdGVyKCkgewogICAgICAgIC8vICAgIGNtLmFsaWFzKGssIHYpOwogICAgICAgIC8vfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>//    for r in cm.aliases.keys()
 //        {
 //            log!(&quot;key  {:#?}&quot;, r)
 //        }</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGxldCB0b3RhbF9pdGVtcyA9IHBhcnNlZF9pdGVtcy5sZW4oKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6aW86OnN0ZG91dCgpLmZsdXNoKCk/Owo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IH0gR2FsbGVyeVVSTD17dGhpcy5wcm9wcy5HYWxsZXJ5VVJMfSBmb290ZXI9e3RoaXMucHJvcHMuZm9vdGVyfSAvPiAtLT4=</text>
       </register>
     </registers>
     <search>
