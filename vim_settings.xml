@@ -23,14 +23,14 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502094576470">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502178710927">
         <mark key="a" line="551" column="8" />
-        <mark key="u" line="753" column="8" />
+        <mark key="u" line="755" column="8" />
         <mark key="'" line="139" column="33" />
-        <mark key="[" line="239" column="19" />
-        <mark key="]" line="529" column="50" />
-        <mark key="." line="529" column="50" />
-        <mark key="^" line="529" column="50" />
+        <mark key="[" line="743" column="36" />
+        <mark key="]" line="743" column="36" />
+        <mark key="." line="743" column="36" />
+        <mark key="^" line="743" column="36" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
