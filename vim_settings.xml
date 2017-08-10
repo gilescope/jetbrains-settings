@@ -23,14 +23,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502267884533">
-        <mark key="a" line="560" column="8" />
-        <mark key="u" line="761" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502388744569">
+        <mark key="a" line="556" column="8" />
+        <mark key="u" line="759" column="8" />
         <mark key="'" line="139" column="33" />
-        <mark key="[" line="357" column="14" />
-        <mark key="]" line="357" column="16" />
-        <mark key="." line="749" column="36" />
-        <mark key="^" line="749" column="36" />
+        <mark key="[" line="358" column="31" />
+        <mark key="]" line="359" column="0" />
+        <mark key="." line="359" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1498587286295">
         <mark key="[" line="23" column="6" />
@@ -56,7 +55,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1501834128590">
+      <file name="/LLDB" timestamp="1502388167122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
@@ -78,38 +77,35 @@
       <register name="0" type="4">
         <text>r e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZW5zdXJlKGl0ZW0ucGljcykubWFwKGZ1bmN0aW9uKHBpYyl7CgogICAgICAgIHJldHVybiA8YSBocmVmPXtwaWN9IHRpdGxlPSIiIGtleT17cGljfT4KICAgICAgICAgIDxpbWcgc3JjPXtwaWN9IGFsdD0iIi8+CiAgICAgICAgPC9hPgogICAgICB9KX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9mb3Iga2V5IGluIHBhcmVudC5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmtleXMoKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvL2xldCBraWQgPSBhbHdheXMhKHBhcmVudC5ib3Jyb3dfbXV0KCkuc3ViY2F0ZWdvcmllcy5nZXRfbXV0KGtleSkpOwoKICAgICAgICAgICAgICAgICAgICAvL2xldCBwYXJlbnRfcmM6IHJjOjpSYzxjZWxsOjpSZWZDZWxsPENhdGVnb3J5Pj4gPSBwYXJlbnQ7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcyA9IFN0cmluZzo6bmV3KCk7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcGFyZW50X3JjOiAmcmM6OlJjPGNlbGw6OlJlZkNlbGw8U3RyaW5nPj4gPSAmcmM6OlJjOjpuZXcoY2VsbDo6UmVmQ2VsbDo6bmV3KHMpKTsKICAgICAgICAgICAgICAgICAgICBj</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xldCBtdXQgbWFwID1jb2xsZWN0aW9uczo6SGFzaE1hcDo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2tpZC5ib3Jyb3dfbXV0KCkucGFyZW50Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZvciAoayx2KSBpbiBtYXAuaW50b19pdGVyKCkgewogICAgICAgIC8vICAgIGNtLmFsaWFzKGssIHYpOwogICAgICAgIC8vfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZW5zdXJlKGl0ZW0ucGljcykubWFwKGZ1bmN0aW9uKHBpYyl7CgogICAgICAgIHJldHVybiA8YSBocmVmPXtwaWN9IHRpdGxlPSIiIGtleT17cGljfT4KICAgICAgICAgIDxpbWcgc3JjPXtwaWN9IGFsdD0iIi8+CiAgICAgICAgPC9hPgogICAgICB9KX0=</text>
       </register>
-      <register name="8" type="4">
-        <text>//    for r in cm.aliases.keys()
-//        {
-//            log!(&quot;key  {:#?}&quot;, r)
-//        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB0b3RhbF9pdGVtcyA9IHBhcnNlZF9pdGVtcy5sZW4oKTsK</text>
+        <text encoding="base64">ICAgIH0pfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IH0gR2FsbGVyeVVSTD17dGhpcy5wcm9wcy5HYWxsZXJ5VVJMfSBmb290ZXI9e3RoaXMucHJvcHMuZm9vdGVyfSAvPiAtLT4=</text>
