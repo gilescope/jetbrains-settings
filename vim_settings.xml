@@ -26,14 +26,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502537996938">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502539151801">
         <mark key="a" line="559" column="8" />
         <mark key="u" line="813" column="8" />
         <mark key="'" line="142" column="33" />
-        <mark key="[" line="643" column="10" />
-        <mark key="]" line="643" column="10" />
-        <mark key="." line="643" column="10" />
-        <mark key="^" line="649" column="41" />
+        <mark key="[" line="800" column="30" />
+        <mark key="]" line="801" column="0" />
+        <mark key="." line="801" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1502529207506">
         <mark key="[" line="22" column="9" />
@@ -82,34 +81,34 @@
         <text>r e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZXJpdGFnZS5wdXNoX3N0cigiIC8gIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mut</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoZXJpdGFnZS5wdXNoX3N0cigiIC8gIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICBsb2chKCJwaWMgZWxle30iLCBzYWxlX2VsZW1lbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgbG9nISgiZ290IGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICBsb2chKCJwaWMgZWxle30iLCBzYWxlX2VsZW1lbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nISgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgbG9nISgiZ290IGgiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gY29sbGVjdGlvbnM6Okhhc2hNYXA6Om5ldygpOwo=</text>
+        <text encoding="base64">bG9nISgiIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gY29sbGVjdGlvbnM6Okhhc2hNYXA6Om5ldygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9mb3Iga2V5IGluIHBhcmVudC5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmtleXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvL2xldCBraWQgPSBhbHdheXMhKHBhcmVudC5ib3Jyb3dfbXV0KCkuc3ViY2F0ZWdvcmllcy5nZXRfbXV0KGtleSkpOwoKICAgICAgICAgICAgICAgICAgICAvL2xldCBwYXJlbnRfcmM6IHJjOjpSYzxjZWxsOjpSZWZDZWxsPENhdGVnb3J5Pj4gPSBwYXJlbnQ7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcyA9IFN0cmluZzo6bmV3KCk7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcGFyZW50X3JjOiAmcmM6OlJjPGNlbGw6OlJlZkNlbGw8U3RyaW5nPj4gPSAmcmM6OlJjOjpuZXcoY2VsbDo6UmVmQ2VsbDo6bmV3KHMpKTsKICAgICAgICAgICAgICAgICAgICBj</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9mb3Iga2V5IGluIHBhcmVudC5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmtleXMoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>mut</text>
