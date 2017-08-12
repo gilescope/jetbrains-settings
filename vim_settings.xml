@@ -18,18 +18,22 @@
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/table.rs" timestamp="1500111587329">
         <mark key="[" line="125" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1502534043474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/src/logging.rs" timestamp="1498502176136">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502529165697">
-        <mark key="a" line="556" column="8" />
-        <mark key="u" line="783" column="8" />
-        <mark key="'" line="139" column="33" />
-        <mark key="[" line="672" column="0" />
-        <mark key="]" line="672" column="8" />
-        <mark key="." line="672" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502537996938">
+        <mark key="a" line="559" column="8" />
+        <mark key="u" line="813" column="8" />
+        <mark key="'" line="142" column="33" />
+        <mark key="[" line="643" column="10" />
+        <mark key="]" line="643" column="10" />
+        <mark key="." line="643" column="10" />
+        <mark key="^" line="649" column="41" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1502529207506">
         <mark key="[" line="22" column="9" />
@@ -49,10 +53,11 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1500885591998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/src/xml.rs" timestamp="1502532202297">
-        <mark key="[" line="120" column="12" />
-        <mark key="]" line="115" column="46" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/rally/src/xml.rs" timestamp="1502533249213">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="128" column="15" />
       </file>
       <file name="/LLDB" timestamp="1502470318126">
         <mark key="[" line="0" column="0" />
@@ -63,8 +68,8 @@
         <mark key="." line="51" column="28" />
         <mark key="^" line="51" column="28" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1501093511191">
-        <mark key="[" line="21" column="9" />
+      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1502537310709">
+        <mark key="[" line="23" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -77,37 +82,37 @@
         <text>r e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gY29sbGVjdGlvbnM6Okhhc2hNYXA6Om5ldygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gY29sbGVjdGlvbnM6Okhhc2hNYXA6Om5ldygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>mut</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICBsb2chKCJwaWMgZWxle30iLCBzYWxlX2VsZW1lbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgbG9nISgiZ290IGgiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9mb3Iga2V5IGluIHBhcmVudC5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmtleXMoKQo=</text>
+        <text encoding="base64">bG9nISgiIik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvL2xldCBraWQgPSBhbHdheXMhKHBhcmVudC5ib3Jyb3dfbXV0KCkuc3ViY2F0ZWdvcmllcy5nZXRfbXV0KGtleSkpOwoKICAgICAgICAgICAgICAgICAgICAvL2xldCBwYXJlbnRfcmM6IHJjOjpSYzxjZWxsOjpSZWZDZWxsPENhdGVnb3J5Pj4gPSBwYXJlbnQ7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcyA9IFN0cmluZzo6bmV3KCk7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcGFyZW50X3JjOiAmcmM6OlJjPGNlbGw6OlJlZkNlbGw8U3RyaW5nPj4gPSAmcmM6OlJjOjpuZXcoY2VsbDo6UmVmQ2VsbDo6bmV3KHMpKTsKICAgICAgICAgICAgICAgICAgICBj</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gY29sbGVjdGlvbnM6Okhhc2hNYXA6Om5ldygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2tpZC5ib3Jyb3dfbXV0KCkucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZW5zdXJlKGl0ZW0ucGljcykubWFwKGZ1bmN0aW9uKHBpYyl7CgogICAgICAgIHJldHVybiA8YSBocmVmPXtwaWN9IHRpdGxlPSIiIGtleT17cGljfT4KICAgICAgICAgIDxpbWcgc3JjPXtwaWN9IGFsdD0iIi8+CiAgICAgICAgPC9hPgogICAgICB9KX0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9mb3Iga2V5IGluIHBhcmVudC5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmtleXMoKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvL2xldCBraWQgPSBhbHdheXMhKHBhcmVudC5ib3Jyb3dfbXV0KCkuc3ViY2F0ZWdvcmllcy5nZXRfbXV0KGtleSkpOwoKICAgICAgICAgICAgICAgICAgICAvL2xldCBwYXJlbnRfcmM6IHJjOjpSYzxjZWxsOjpSZWZDZWxsPENhdGVnb3J5Pj4gPSBwYXJlbnQ7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcyA9IFN0cmluZzo6bmV3KCk7CiAgICAgICAgICAgICAgICAgICAgLy9sZXQgcGFyZW50X3JjOiAmcmM6OlJjPGNlbGw6OlJlZkNlbGw8U3RyaW5nPj4gPSAmcmM6OlJjOjpuZXcoY2VsbDo6UmVmQ2VsbDo6bmV3KHMpKTsKICAgICAgICAgICAgICAgICAgICBj</text>
       </register>
       <register name="-" type="4">
-        <text>//TODO pic.url are bollox</text>
+        <text>mut</text>
       </register>
     </registers>
     <search>
