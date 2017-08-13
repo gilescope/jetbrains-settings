@@ -12,8 +12,8 @@
       <file name="/Dummy.txt" timestamp="1500885572205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1498809227706">
-        <mark key="[" line="10" column="36" />
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1502615685772">
+        <mark key="[" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/table.rs" timestamp="1500111587329">
         <mark key="[" line="125" column="0" />
@@ -26,13 +26,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502539151801">
-        <mark key="a" line="559" column="8" />
-        <mark key="u" line="818" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502620046366">
+        <mark key="a" line="574" column="8" />
+        <mark key="u" line="833" column="8" />
         <mark key="'" line="142" column="33" />
-        <mark key="[" line="805" column="30" />
-        <mark key="]" line="806" column="0" />
-        <mark key="." line="806" column="0" />
+        <mark key="[" line="278" column="2" />
+        <mark key="]" line="278" column="2" />
+        <mark key="." line="278" column="2" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1502529207506">
         <mark key="[" line="22" column="9" />
@@ -81,37 +81,37 @@
         <text>r e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJpdGFnZS5wdXNoX3N0cigiIC8gIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAie2Rpc2NvdW50ZWRfcHJpY2V9IiA9PiBkaXNjb3VudF9zdHIuYXNfc3RyKCksCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZXJpdGFnZS5wdXNoX3N0cigiIC8gIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBwdWIgdXJsOiBTdHJpbmc=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAie3ByaWNlfSIgPT4gcHJpY2Vfc3RyLmFzX3N0cigpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICBsb2chKCJwaWMgZWxle30iLCBzYWxlX2VsZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBkaXNjb3VudF9zdHIgPSBpdGVtLmdldF9kaXNjb3VudGVkX3ByaWNlX3N0cigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgbG9nISgiZ290IGgiKTsK</text>
+        <text encoding="base64">ICAgIGxldCBwcmljZV9zdHIgPSBpdGVtLmdldF9wcmljZV9zdHIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nISgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAie2xpbmtzfSIgPT4gJmdhbGxlcnksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gY29sbGVjdGlvbnM6Okhhc2hNYXA6Om5ldygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAie2Rlc2N9IiA9PiAmaXRlbS5kZXNjLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAie2NhdC50aXRsZX0iID0+ICZjYXQudGl0bGUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAie1NLVX0iID0+ICZpdGVtLnNrdS5pZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9mb3Iga2V5IGluIHBhcmVudC5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmtleXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mut</text>
+        <text encoding="base64">ICBwdWIgdXJsOiBTdHJpbmc=</text>
       </register>
     </registers>
     <search>
