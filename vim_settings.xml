@@ -61,6 +61,13 @@
       <file name="/LLDB" timestamp="1502470318126">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1502621742561">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="51" column="28" />
@@ -75,6 +82,8 @@
       <jump line="122" column="4" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" />
       <jump line="121" column="0" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" />
       <jump line="117" column="33" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="5" column="52" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -84,7 +93,7 @@
         <text encoding="base64">ICAgICAgICAie2Rpc2NvdW50ZWRfcHJpY2V9IiA9PiBkaXNjb3VudF9zdHIuYXNfc3RyKCksCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBwdWIgdXJsOiBTdHJpbmc=</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAie3ByaWNlfSIgPT4gcHJpY2Vfc3RyLmFzX3N0cigpLAo=</text>
@@ -111,7 +120,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBwdWIgdXJsOiBTdHJpbmc=</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
