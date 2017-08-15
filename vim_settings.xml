@@ -69,14 +69,14 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1499621950760">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="51" column="28" />
-        <mark key="^" line="51" column="28" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1502818909978">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1502537310709">
-        <mark key="[" line="23" column="14" />
+      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1502818842671">
+        <mark key="[" line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
