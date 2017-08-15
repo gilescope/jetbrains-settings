@@ -18,7 +18,6 @@
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/table.rs" timestamp="1500111587329">
         <mark key="[" line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/collections/hash/map.rs" timestamp="1502626941305" />
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,23 +26,25 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502820704660">
-        <mark key="a" line="616" column="8" />
-        <mark key="u" line="877" column="8" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1502829927296">
+        <mark key="a" line="617" column="8" />
+        <mark key="u" line="878" column="8" />
         <mark key="'" line="174" column="33" />
-        <mark key="[" line="140" column="0" />
+        <mark key="[" line="142" column="19" />
         <mark key="]" line="140" column="4" />
         <mark key="." line="140" column="4" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1502529207506">
         <mark key="[" line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sig-1.0.0/src/ffi.rs" timestamp="1502830231511" />
       <file name="$USER_HOME$/rally/src/lib.rs" timestamp="1500719252097">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/sig-1.0.0/src/macros.rs" timestamp="1502829715351" />
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1502405197107">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="5" column="26" />
