@@ -26,13 +26,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1503988318669">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1503990479627">
         <mark key="a" line="617" column="8" />
         <mark key="u" line="878" column="8" />
         <mark key="'" line="174" column="33" />
-        <mark key="[" line="734" column="0" />
-        <mark key="]" line="734" column="0" />
-        <mark key="." line="734" column="0" />
+        <mark key="[" line="208" column="16" />
+        <mark key="]" line="208" column="16" />
+        <mark key="." line="208" column="16" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1502529207506">
         <mark key="[" line="22" column="9" />
@@ -63,6 +63,12 @@
       <file name="/LLDB" timestamp="1503928467191">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1502626362882">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="18" column="15" />
@@ -91,38 +97,38 @@
       <register name="0" type="4">
         <text>r e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgICAgICgKLy8gICAgICAgICAgICBkZWNvZGVfaHRtbCgKLy8gICAgICAgICAgICAgICAgICAgIHhtbDo6dW50YWcoCi8vICAgICAgICAgICAgICAgICAgICAgICAgJlN0cmluZzo6ZnJvbSh4bWw6OmZpbmQoIkRlc2NyaXB0aW9uIiwgZWJheV9pdGVtKVswXSkucmVwbGFjZSgiJmFwb3M7IiwiJyIpICAvL1RPRE8gY29uY2F0IGRlc2NyaXB0aW9ucwovLyAgICAgICAgICAgICAgICAgICAgICAgICk/Ci8vICAgICAgICAgICAgKT8KLy8gICAgICAgICkuaW50bygpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gICAgICAgICgKLy8gICAgICAgICAgICBkZWNvZGVfaHRtbCgKLy8gICAgICAgICAgICAgICAgICAgIHhtbDo6dW50YWcoCi8vICAgICAgICAgICAgICAgICAgICAgICAgJlN0cmluZzo6ZnJvbSh4bWw6OmZpbmQoIkRlc2NyaXB0aW9uIiwgZWJheV9pdGVtKVswXSkucmVwbGFjZSgiJmFwb3M7IiwiJyIpICAvL1RPRE8gY29uY2F0IGRlc2NyaXB0aW9ucwovLyAgICAgICAgICAgICAgICAgICAgICAgICk/Ci8vICAgICAgICAgICAgKT8KLy8gICAgICAgICkuaW50bygpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiNbbWFjcm9fdXNlXSBleHRlcm4gY3JhdGUgc3RhY2t0cmFjZTs=</text>
+        <text encoding="base64">Ly8gICAgICAgICgKLy8gICAgICAgICAgICBkZWNvZGVfaHRtbCgKLy8gICAgICAgICAgICAgICAgICAgIHhtbDo6dW50YWcoCi8vICAgICAgICAgICAgICAgICAgICAgICAgJlN0cmluZzo6ZnJvbSh4bWw6OmZpbmQoIkRlc2NyaXB0aW9uIiwgZWJheV9pdGVtKVswXSkucmVwbGFjZSgiJmFwb3M7IiwiJyIpICAvL1RPRE8gY29uY2F0IGRlc2NyaXB0aW9ucwovLyAgICAgICAgICAgICAgICAgICAgICAgICk/Ci8vICAgICAgICAgICAgKT8KLy8gICAgICAgICkuaW50bygpOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgICBpZiBleGlzdGluZ19pdGVtLnNrdSA9PSBpdGVtLnNrdSB7CiAgICAgICAgICAgICAgICBwYW5pYyEoIk9oIGRlYXIiKTsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CiNbbWFjcm9fdXNlXSBleHRlcm4gY3JhdGUgc3RhY2t0cmFjZTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGZvciBpIGluICZzZWxmLml0ZW1zIHsKICAgICAgICAgICAgdi5wdXNoKGkuY2xvbmUoKSk7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgICBpZiBleGlzdGluZ19pdGVtLnNrdSA9PSBpdGVtLnNrdSB7CiAgICAgICAgICAgICAgICBwYW5pYyEoIk9oIGRlYXIiKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IGZvciBpIGluICZzZWxmLml0ZW1zIHsKICAgICAgICAgICAgdi5wdXNoKGkuY2xvbmUoKSk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBsZXQgbXV0IGl0ID0gc2VsZi5pdGVtcy5pdGVyKCk7CiAgICAgICAgd2hpbGUgbGV0IFNvbWUocikgPSBpdC5uZXh0KCkgewogICAgICAgICAgICByZXN1bHRzLnB1c2goci5jbG9uZSgpKTsKICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbS5za3UK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Ly8gICAgbG9nISgiezojP30iLCBjbSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8KLy8gICAgLy8gICAgbGV0IG11dCBpdGVyID0gcGFyc2VkLmludG9faXRlcigpOwovLy8vICAgIHdoaWxlIGxldCBTb21lKGl0ZW0pID0gaXRlci5uZXh0KCkgewovLy8vICAgICAgICBsZXQgbXV0IGNhdGVnb3J5X3BhdGggPSBpdGVtLm9yaWdpbmFsX2NhdGVnb3J5LnNwbGl0KCc6Jyk7Ci8vLy8gICAgICAgIC8vbG9nISgiQnVpbGRpbmcgY2F0IHs6P30gIiwgJml0ZW0ub3JpZ2luYWxfY2F0ZWdvcnkpOwovLy8vICAgICAgICB7Ci8vLy8gICAgICAgICAgICBsZXQgbXV0IGNhdCA9IGFsd2F5cyEoY20uZ2V0KCZpdGVtLm9yaWdpbmFsX2NhdGVnb3J5KSk7Ci8vLy8gICAgICAgICAgICBjYXQuYWRkX2l0ZW0oJml0ZW0pOwovLy8vICAgICAgICB9Ci8vLy8gICAgfQovLw==</text>
-      </register>
       <register name="-" type="4">
-        <text>#[cfg(not(target_os = &quot;android&quot;))]</text>
+        <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczo2ODkJ</text>
       </register>
     </registers>
     <search>
