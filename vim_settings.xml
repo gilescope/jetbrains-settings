@@ -9,7 +9,7 @@
       <file name="/GDB" timestamp="1501265464437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504198358626">
+      <file name="/Dummy.txt" timestamp="1504209941529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1502615685772">
@@ -21,11 +21,11 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504199581880">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504209983965">
         <mark key="a" line="636" column="8" />
         <mark key="u" line="903" column="8" />
         <mark key="'" line="186" column="33" />
-        <mark key="[" line="227" column="3" />
+        <mark key="[" line="229" column="17" />
         <mark key="]" line="227" column="3" />
         <mark key="." line="227" column="3" />
         <mark key="^" line="207" column="80" />
@@ -39,7 +39,6 @@
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1504167240504" />
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1502405197107">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="5" column="26" />
