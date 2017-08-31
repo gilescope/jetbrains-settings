@@ -9,7 +9,7 @@
       <file name="/GDB" timestamp="1501265464437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503990738934">
+      <file name="/Dummy.txt" timestamp="1504198358626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1502615685772">
@@ -21,14 +21,14 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504167582940">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504199581880">
         <mark key="a" line="636" column="8" />
         <mark key="u" line="903" column="8" />
         <mark key="'" line="186" column="33" />
-        <mark key="[" line="208" column="102" />
-        <mark key="]" line="208" column="80" />
-        <mark key="." line="208" column="80" />
-        <mark key="^" line="208" column="80" />
+        <mark key="[" line="227" column="3" />
+        <mark key="]" line="227" column="3" />
+        <mark key="." line="227" column="3" />
+        <mark key="^" line="207" column="80" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1502529207506">
         <mark key="[" line="22" column="9" />
@@ -101,8 +101,8 @@
       <register name="1" type="2">
         <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQ2FuJ3QgcGFyc2UgRXJyKE1lc3NhZ2UoIlNraXBwaW5nIGFzIGhpZGRlbiIpKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQ2FuJ3QgcGFyc2UgRXJyKE1lc3NhZ2UoIlNraXBwaW5nIGFzIGhpZGRlbiIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICByb290cy5wdXNoKGl0ZW1fdGFnc19mb3JfcGFnZSk7</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQ2FuJ3QgcGFyc2UgRXJyKE1lc3NhZ2UoIlNraXBwaW5nIGFzIGhpZGRlbiIpKQo=</text>
@@ -129,7 +129,7 @@
         <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgICBpZiBleGlzdGluZ19pdGVtLnNrdSA9PSBpdGVtLnNrdSB7CiAgICAgICAgICAgICAgICBwYW5pYyEoIk9oIGRlYXIiKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICByb290cy5wdXNoKGl0ZW1fdGFnc19mb3JfcGFnZSk7</text>
       </register>
     </registers>
     <search>
