@@ -21,7 +21,7 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504209983965">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504253182357">
         <mark key="a" line="636" column="8" />
         <mark key="u" line="903" column="8" />
         <mark key="'" line="186" column="33" />
@@ -38,6 +38,9 @@
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1504253578452">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1502405197107">
         <mark key="'" line="113" column="0" />
@@ -75,8 +78,8 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1504167258195">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1504253760422">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
         <mark key="^" line="56" column="28" />
