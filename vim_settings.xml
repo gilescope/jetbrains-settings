@@ -24,13 +24,13 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504445991229">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1504550589035">
         <mark key="a" line="636" column="8" />
-        <mark key="u" line="903" column="8" />
-        <mark key="'" line="186" column="33" />
-        <mark key="[" line="229" column="17" />
-        <mark key="]" line="227" column="3" />
-        <mark key="." line="227" column="3" />
+        <mark key="u" line="906" column="8" />
+        <mark key="'" line="750" column="41" />
+        <mark key="[" line="747" column="12" />
+        <mark key="]" line="747" column="12" />
+        <mark key="." line="747" column="12" />
         <mark key="^" line="207" column="80" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1504446013019">
@@ -98,6 +98,7 @@
       <jump line="5" column="52" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" />
       <jump line="2" column="0" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" />
       <jump line="2" column="6943" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" />
+      <jump line="751" column="41" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -107,7 +108,7 @@
         <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQ2FuJ3QgcGFyc2UgRXJyKE1lc3NhZ2UoIlNraXBwaW5nIGFzIGhpZGRlbiIpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICByb290cy5wdXNoKGl0ZW1fdGFnc19mb3JfcGFnZSk7</text>
+        <text>//parse_item(ebay_item, sku, None, always!(file.to_str()))</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZWJheS9zcmMvd2Vic2l0ZS5yczoyMDQJQ2FuJ3QgcGFyc2UgRXJyKE1lc3NhZ2UoIlNraXBwaW5nIGFzIGhpZGRlbiIpKQo=</text>
@@ -134,7 +135,7 @@
         <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgICBpZiBleGlzdGluZ19pdGVtLnNrdSA9PSBpdGVtLnNrdSB7CiAgICAgICAgICAgICAgICBwYW5pYyEoIk9oIGRlYXIiKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICByb290cy5wdXNoKGl0ZW1fdGFnc19mb3JfcGFnZSk7</text>
+        <text>//parse_item(ebay_item, sku, None, always!(file.to_str()))</text>
       </register>
     </registers>
     <search>
