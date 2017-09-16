@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/rally/src/time.rs" timestamp="1504445817318">
         <mark key="[" line="27" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504852549893">
+      <file name="/Dummy.txt" timestamp="1505558508075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1502615685772">
@@ -24,13 +24,10 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505554620941">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505559481867">
         <mark key="a" line="641" column="8" />
-        <mark key="u" line="911" column="8" />
+        <mark key="u" line="938" column="8" />
         <mark key="'" line="755" column="41" />
-        <mark key="[" line="263" column="4" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1504446013019">
         <mark key="[" line="19" column="14" />
@@ -64,7 +61,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1503928467191">
+      <file name="/LLDB" timestamp="1505559456590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
@@ -111,7 +108,7 @@
         <text encoding="base64">Ly8gICAgbGV0IHggOiBTdHJpbmcgPSBTdHJpbmc6OmZyb20oYWx3YXlzISh4bWw6OmZpbmRfc2luZ2xlKCJQYWdpbmF0aW9uUmVzdWx0IiwgJmViYXlfaXRlbXNfeG1sKSkpOwovLyAgICBsZXQgcGFnaW5hdGlvbl9yZXN1bHRzOiAmc3RyID0geG1sOjp1bnRhZygmeCk/OwovLyAgICBsZXQgdG90YWxfcGFnZXNfYW5kX3RhZyA9IGFsd2F5cyEoeG1sOjpmaW5kX3NpbmdsZSgiVG90YWxOdW1iZXJPZlBhZ2VzIiwgcGFnaW5hdGlvbl9yZXN1bHRzKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gICAgbGV0IHggOiBTdHJpbmcgPSBTdHJpbmc6OmZyb20oYWx3YXlzISh4bWw6OmZpbmRfc2luZ2xlKCJQYWdpbmF0aW9uUmVzdWx0IiwgJmViYXlfaXRlbXNfeG1sKSkpOwovLyAgICBsZXQgcGFnaW5hdGlvbl9yZXN1bHRzOiAmc3RyID0geG1sOjp1bnRhZygmeCk/OwovLyAgICBsZXQgdG90YWxfcGFnZXNfYW5kX3RhZyA9IGFsd2F5cyEoeG1sOjpmaW5kX3NpbmdsZSgiVG90YWxOdW1iZXJPZlBhZ2VzIiwgcGFnaW5hdGlvbl9yZXN1bHRzKSk7</text>
+        <text encoding="base64">U3RyaW5nOjpmcm9tKCIuLi8uLi8uLi9tbTEvIikgKyAmbmFtZVsuLm5hbWUubGVuKCkgLSAiLmpwZyIubGVuKCldICsgIi0iICsgJnNrdS5pZCArICIuanBnIg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgIC8vIGl0ZW1fdGFncy5leHRlbmQoICZ4bWw6OmZpbmQoIkl0ZW0iLCAmZWJheV9pdGVtc194bWwpKTsK</text>
@@ -138,7 +135,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdHMyID0gZWJheV9mZXRjaGVyOjpnZXRfc2VsbGVyX2xpc3QocGFnZSwgMCk7CiAgICAgICAgICAgIGxldCByZXN1bHRzMyA9IGViYXlfZmV0Y2hlcjo6Z2V0X3NlbGxlcl9saXN0KHBhZ2UsIDkwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>u32::from_str( xml::untag(total_pages_and_tag)?)?</text>
+        <text encoding="base64">U3RyaW5nOjpmcm9tKCIuLi8uLi8uLi9tbTEvIikgKyAmbmFtZVsuLm5hbWUubGVuKCkgLSAiLmpwZyIubGVuKCldICsgIi0iICsgJnNrdS5pZCArICIuanBnIg==</text>
       </register>
     </registers>
     <search>
