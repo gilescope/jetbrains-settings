@@ -24,14 +24,14 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505656183889">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505672816000">
         <mark key="a" line="657" column="8" />
-        <mark key="u" line="954" column="8" />
-        <mark key="'" line="366" column="4" />
-        <mark key="[" line="373" column="64" />
-        <mark key="]" line="373" column="36" />
-        <mark key="." line="373" column="36" />
-        <mark key="^" line="373" column="36" />
+        <mark key="u" line="959" column="8" />
+        <mark key="'" line="980" column="4" />
+        <mark key="[" line="734" column="38" />
+        <mark key="]" line="734" column="29" />
+        <mark key="." line="734" column="29" />
+        <mark key="^" line="734" column="29" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1504446013019">
         <mark key="[" line="19" column="14" />
@@ -105,6 +105,8 @@
       <jump line="751" column="41" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="373" column="44" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="366" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="981" column="83" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="975" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
       <register name="0" type="4">
