@@ -24,14 +24,14 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505672816000">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505718618764">
         <mark key="a" line="657" column="8" />
-        <mark key="u" line="959" column="8" />
-        <mark key="'" line="980" column="4" />
-        <mark key="[" line="734" column="38" />
-        <mark key="]" line="734" column="29" />
-        <mark key="." line="734" column="29" />
-        <mark key="^" line="734" column="29" />
+        <mark key="u" line="966" column="8" />
+        <mark key="'" line="987" column="4" />
+        <mark key="[" line="734" column="32" />
+        <mark key="]" line="734" column="32" />
+        <mark key="." line="734" column="32" />
+        <mark key="^" line="739" column="32" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1504446013019">
         <mark key="[" line="19" column="14" />
@@ -65,7 +65,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1505559456590">
+      <file name="/LLDB" timestamp="1505718871129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
@@ -116,7 +116,7 @@
         <text encoding="base64">Ly8gICAgbGV0IHggOiBTdHJpbmcgPSBTdHJpbmc6OmZyb20oYWx3YXlzISh4bWw6OmZpbmRfc2luZ2xlKCJQYWdpbmF0aW9uUmVzdWx0IiwgJmViYXlfaXRlbXNfeG1sKSkpOwovLyAgICBsZXQgcGFnaW5hdGlvbl9yZXN1bHRzOiAmc3RyID0geG1sOjp1bnRhZygmeCk/OwovLyAgICBsZXQgdG90YWxfcGFnZXNfYW5kX3RhZyA9IGFsd2F5cyEoeG1sOjpmaW5kX3NpbmdsZSgiVG90YWxOdW1iZXJPZlBhZ2VzIiwgcGFnaW5hdGlvbl9yZXN1bHRzKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNlbGYucGFyZW50ID09IE9wdGlvbjo6Tm9uZSB7</text>
+        <text>.get_value(</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgIC8vIGl0ZW1fdGFncy5leHRlbmQoICZ4bWw6OmZpbmQoIkl0ZW0iLCAmZWJheV9pdGVtc194bWwpKTsK</text>
@@ -143,7 +143,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdHMyID0gZWJheV9mZXRjaGVyOjpnZXRfc2VsbGVyX2xpc3QocGFnZSwgMCk7CiAgICAgICAgICAgIGxldCByZXN1bHRzMyA9IGViYXlfZmV0Y2hlcjo6Z2V0X3NlbGxlcl9saXN0KHBhZ2UsIDkwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNlbGYucGFyZW50ID09IE9wdGlvbjo6Tm9uZSB7</text>
+        <text>.get_value(</text>
       </register>
     </registers>
     <search>
