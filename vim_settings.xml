@@ -6,14 +6,8 @@
       <file name="/start_script.py" timestamp="1498116730351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GDB" timestamp="1501265464437">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/rally/src/time.rs" timestamp="1504445817318">
         <mark key="[" line="27" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505656075910">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1502615685772">
         <mark key="[" line="2" column="25" />
@@ -24,32 +18,49 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505718618764">
-        <mark key="a" line="657" column="8" />
-        <mark key="u" line="966" column="8" />
-        <mark key="'" line="987" column="4" />
-        <mark key="[" line="734" column="32" />
-        <mark key="]" line="734" column="32" />
-        <mark key="." line="734" column="32" />
-        <mark key="^" line="739" column="32" />
-      </file>
-      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1504446013019">
-        <mark key="[" line="19" column="14" />
-      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/macros.rs" timestamp="1505719503255" />
       <file name="$USER_HOME$/rally/src/lib.rs" timestamp="1504446002202">
         <mark key="[" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1504083712267">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1505758567888">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1504083979793">
+        <mark key="[" line="22" column="6" />
+      </file>
+      <file name="/GDB" timestamp="1501265464437">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505656075910">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/result.rs" timestamp="1505720065680" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505758662839">
+        <mark key="a" line="676" column="8" />
+        <mark key="u" line="1004" column="8" />
+        <mark key="[" line="781" column="66" />
+        <mark key="]" line="791" column="0" />
+        <mark key="." line="791" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1504446013019">
+        <mark key="[" line="19" column="14" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1504767025017">
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1502405197107">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="86" column="7" />
-        <mark key="." line="86" column="7" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1503928496262">
         <mark key="[" line="0" column="0" />
@@ -60,20 +71,7 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="128" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1504083712267">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1505718871129">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/macros.rs" timestamp="1505719516171" />
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1502626362882">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="18" column="15" />
@@ -91,9 +89,6 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1504083979793">
-        <mark key="[" line="22" column="6" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="122" column="4" filename="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" />
@@ -107,43 +102,45 @@
       <jump line="366" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="981" column="83" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="975" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="754" column="12" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="745" column="16" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>r e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgbGV0IHggOiBTdHJpbmcgPSBTdHJpbmc6OmZyb20oYWx3YXlzISh4bWw6OmZpbmRfc2luZ2xlKCJQYWdpbmF0aW9uUmVzdWx0IiwgJmViYXlfaXRlbXNfeG1sKSkpOwovLyAgICBsZXQgcGFnaW5hdGlvbl9yZXN1bHRzOiAmc3RyID0geG1sOjp1bnRhZygmeCk/OwovLyAgICBsZXQgdG90YWxfcGFnZXNfYW5kX3RhZyA9IGFsd2F5cyEoeG1sOjpmaW5kX3NpbmdsZSgiVG90YWxOdW1iZXJPZlBhZ2VzIiwgcGFnaW5hdGlvbl9yZXN1bHRzKSk7</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>.get_value(</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIC8vIGl0ZW1fdGFncy5leHRlbmQoICZ4bWw6OmZpbmQoIkl0ZW0iLCAmZWJheV9pdGVtc194bWwpKTsK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGxldCBpdGVtX3RhZ3NfZm9yX3BhZ2UgPQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gICAgICAgIH0KLy8gICAgICAgIC8vaWYgbm8gY2hpbGQgY2F0ZWdvcmllcyBBTkQgaXRlbXMgPT0gMSwgcHV0IGl0ZW0gaW4gdGhlIHBhcmVudCBjYXRlZ29yeSBhbmQgZGVsZXRlIHRoaXMgb25lLi4uLgovLyAgICAgICAgZWxzZSBpZiBub2RlLmJvcnJvdygpLml0ZW1zLmxlbigpID09IDEgJiYgbm9kZS5ib3Jyb3coKS5zdWJjYXRlZ29yaWVzLmxlbigpID09IDAgewovLyAgICAgICAgICAgIGxvZyEoIkJvcnJvdyBjaGlsZCIpOwovLyAgICAgICAgICAgIGxldCBjaGlsZCA9ICZub2RlLmJvcnJvd19tdXQoKTsKLy8gICAgICAgICAgICBsZXQgcGFyZW50IDogJk9wdGlvbjxyYzo6V2VhazxjZWxsOjpSZWZDZWxsPENhdGVnb3J5Pj4+ID0gJmNoaWxkLnBhcmVudDsKLy8KLy8gICAgICAgICAgICBpZiBsZXQgJlNvbWUocmVmIHBhcmVudF93ZWFrX3JlZikgPSBwYXJlbnQgewovLyAgICAgICAgICAgICAgICBsb2chKCJCb3Jyb3cgY2hpbGQucGFyZW50IHdlYWsiKTsKLy8gICAgICAgICAgICAgICAgbGV0IHBhcmVudCA6IHJjOjpSYzxjZWxsOjpSZWZDZWxsPENhdGVnb3J5Pj4gPSBhbHdheXMhKHBhcmVudF93ZWFrX3JlZi51cGdyYWRlKCkpOwovLyAgICAgICAgICAgICAgICBsb2chKCJCb3Jyb3cgcGFyZW50Iik7Ci8vICAgICAgICAgICAgICAgIGxldCBtdXQgbXV0X3BhcmVudCA9IHBhcmVudC5ib3Jyb3dfbXV0KCk7Ci8vICAgICAgICAgICAgICAgIG11dF9wYXJlbnQuc3ViY2F0ZWdvcmllcy5yZW1vdmUoJm5vZGUuYm9ycm93KCkudGl0bGUpOwovLwovLyAgICAgICAgICAgICAgICBsb2chKCJjbG9uZSIpOwovLwovLyAgICAgICAgICAgICAgICBtdXRfcGFyZW50Lml0ZW1zLnB1c2goY2hpbGQuaXRlbXNbMF0uY2xvbmUoKSk7Ci8vICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gICAgbGV0IHggOiBTdHJpbmcgPSBTdHJpbmc6OmZyb20oYWx3YXlzISh4bWw6OmZpbmRfc2luZ2xlKCJQYWdpbmF0aW9uUmVzdWx0IiwgJmViYXlfaXRlbXNfeG1sKSkpOwovLyAgICBsZXQgcGFnaW5hdGlvbl9yZXN1bHRzOiAmc3RyID0geG1sOjp1bnRhZygmeCk/OwovLyAgICBsZXQgdG90YWxfcGFnZXNfYW5kX3RhZyA9IGFsd2F5cyEoeG1sOjpmaW5kX3NpbmdsZSgiVG90YWxOdW1iZXJPZlBhZ2VzIiwgcGFnaW5hdGlvbl9yZXN1bHRzKSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IC8vICAgbGV0IG11dCBpdGVtX3RhZ3MgPSAmeG1sOjpmaW5kKCJJdGVtIiwgJmViYXlfaXRlbXNfeG1sKTsK</text>
+        <text encoding="base64">ICAgICAgIC8vIGl0ZW1fdGFncy5leHRlbmQoICZ4bWw6OmZpbmQoIkl0ZW0iLCAmZWJheV9pdGVtc194bWwpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGxldCBpdGVtX3RhZ3NfZm9yX3BhZ2UgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC8vICAgbGV0IG11dCBpdGVtX3RhZ3MgPSAmeG1sOjpmaW5kKCJJdGVtIiwgJmViYXlfaXRlbXNfeG1sKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdHMyID0gZWJheV9mZXRjaGVyOjpnZXRfc2VsbGVyX2xpc3QocGFnZSwgMCk7CiAgICAgICAgICAgIGxldCByZXN1bHRzMyA9IGViYXlfZmV0Y2hlcjo6Z2V0X3NlbGxlcl9saXN0KHBhZ2UsIDkwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.get_value(</text>
+        <text>CategoryManager::shake(child.clone(), alias_map)</text>
       </register>
     </registers>
     <search>
