@@ -48,7 +48,8 @@
       <file name="/Dummy.txt" timestamp="1505656075910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1505854014187">
+      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1505855124423">
+        <mark key="'" line="615" column="31" />
         <mark key="]" line="717" column="102" />
         <mark key="." line="717" column="102" />
         <mark key="^" line="717" column="102" />
@@ -109,6 +110,7 @@
       <jump line="975" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="754" column="12" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="745" column="16" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="615" column="31" filename="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" />
     </jumps>
     <registers>
       <register name="0" type="4">
