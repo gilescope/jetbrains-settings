@@ -48,11 +48,10 @@
       <file name="/Dummy.txt" timestamp="1505656075910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1505845254980">
-        <mark key="[" line="889" column="69" />
-        <mark key="]" line="711" column="102" />
-        <mark key="." line="711" column="102" />
-        <mark key="^" line="711" column="102" />
+      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1505851175876">
+        <mark key="]" line="712" column="102" />
+        <mark key="." line="712" column="102" />
+        <mark key="^" line="712" column="102" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/result.rs" timestamp="1505720065680" />
       <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505758662839">
