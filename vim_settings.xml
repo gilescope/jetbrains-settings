@@ -48,12 +48,12 @@
       <file name="/Dummy.txt" timestamp="1505656075910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1505940614732">
+      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1505941844888">
         <mark key="'" line="615" column="31" />
-        <mark key="[" line="769" column="90" />
-        <mark key="]" line="607" column="34" />
-        <mark key="." line="607" column="34" />
-        <mark key="^" line="607" column="34" />
+        <mark key="[" line="765" column="8" />
+        <mark key="]" line="765" column="8" />
+        <mark key="." line="765" column="8" />
+        <mark key="^" line="765" column="8" />
       </file>
       <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/result.rs" timestamp="1505720065680" />
       <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505758662839">
@@ -121,7 +121,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ConsoleTestState</text>
+        <text>buildStatisticValue</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -148,7 +148,7 @@
         <text encoding="base64">IC8vICAgbGV0IG11dCBpdGVtX3RhZ3MgPSAmeG1sOjpmaW5kKCJJdGVtIiwgJmViYXlfaXRlbXNfeG1sKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ConsoleTestState</text>
+        <text>buildStatisticValue</text>
       </register>
     </registers>
     <search>
