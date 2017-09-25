@@ -18,12 +18,14 @@
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd_unicode/char.rs" timestamp="1506365144265" />
       <file name="$USER_HOME$/rally/src/lib.rs" timestamp="1504446002202">
         <mark key="[" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/char.rs" timestamp="1506364148764" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1504083712267">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -41,17 +43,19 @@
       <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1504083979793">
         <mark key="[" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/liballoc/str.rs" timestamp="1506364074747" />
       <file name="/GDB" timestamp="1501265464437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1505656075910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1506276891562">
+      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1506364811470">
         <mark key="'" line="506" column="33" />
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="0" />
-        <mark key="." line="479" column="0" />
+        <mark key="[" line="920" column="48" />
+        <mark key="]" line="920" column="48" />
+        <mark key="." line="920" column="48" />
+        <mark key="^" line="920" column="48" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1505758662839">
         <mark key="a" line="676" column="8" />
@@ -74,13 +78,6 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
         <mark key="^" line="128" column="15" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1502626362882">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/metalminnie.co.uk/static-react/src/ebay-getsellerlist-1.cache.xml" timestamp="1504722004281">
         <mark key="[" line="12" column="0" />
@@ -117,8 +114,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">fCAnXCcnIHwgJyInIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
@@ -145,7 +142,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>//color only when single threaded...</text>
+        <text encoding="base64">fCAnXCcnIHwgJyInIA==</text>
       </register>
     </registers>
     <search>
