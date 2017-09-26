@@ -21,11 +21,11 @@
       <file name="/Dummy.txt" timestamp="1505656075910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1506377872875">
+      <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1506450511435">
         <mark key="'" line="508" column="33" />
-        <mark key="[" line="902" column="5" />
-        <mark key="]" line="902" column="5" />
-        <mark key="." line="902" column="5" />
+        <mark key="[" line="1977" column="19" />
+        <mark key="]" line="1977" column="19" />
+        <mark key="." line="1977" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
@@ -108,13 +108,22 @@
       <register name="0" type="4">
         <text>r e</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmZuIHRlYW1jaXR5X2VzY2FwZV9jaGFyKGNoOmNoYXIsIGJ1ZmZlcjogJm11dCBTdHJpbmcpCnsKICAgIAp9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvLyB0ZWFtY2l0eV9lc2NhcGVfY2hhcihjaCwgJm11dCBidWZmZXIpOw==</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmZuIHRlYW1jaXR5X2VzY2FwZV9jaGFyKGNoOmNoYXIsIGJ1ZmZlcjogJm11dCBTdHJpbmcpCnsKICAgIAp9</text>
+      </register>
+      <register name="5" type="4">
         <text>//    message.replace('|', &quot;||&quot;)
 //        .replace('\'', &quot;|'&quot;)
 //        .replace('\n', &quot;|n&quot;)
@@ -124,29 +133,20 @@
 //        .escape_unicode()
 //        .replace('\u', &quot;|0x&quot;) //\uNNNN (unicode symbol with code 0xNNNN) to &quot;|0xNNNN'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJvcHRzIGFyZSB7fSIsIG9wdHMub3B0aW9ucy5kaXNwbGF5X3NlcnZpY2VfbWVzc2FnZXMpOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiZGlzcGxheV9zZXJ2aWNlX21lc3NhZ2VzIHt9IiwgJnNlbGYub3B0aW9ucy5kaXNwbGF5X3NlcnZpY2VfbWVzc2FnZXMpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">T3B0aW9uc3sKICAgICAgICBkaXNwbGF5X291dHB1dDogZmFsc2UsCiAgICAgICAgZGlzcGxheV9zZXJ2aWNlX21lc3NhZ2VzOiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ0ZWFtY2l0eSBzZXQgdG8ge30iLCB0ZWFtY2l0eSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLy8gdGVzdF9vcHRzLm9wdGlvbnMuZGlzcGxheV9zZXJ2aWNlX21lc3NhZ2VzID0gdGVhbWNpdHk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJvcHRzIGFyZSB7fSIsIG9wdHMub3B0aW9ucy5kaXNwbGF5X3NlcnZpY2VfbWVzc2FnZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiZGlzcGxheV9zZXJ2aWNlX21lc3NhZ2VzIHt9IiwgJnNlbGYub3B0aW9ucy5kaXNwbGF5X3NlcnZpY2VfbWVzc2FnZXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAvLyB0ZWFtY2l0eV9lc2NhcGVfY2hhcihjaCwgJm11dCBidWZmZXIpOw==</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
