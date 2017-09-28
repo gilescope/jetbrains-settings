@@ -46,8 +46,10 @@
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1506530839187">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1506634779148">
+        <mark key="[" line="74" column="5" />
+        <mark key="]" line="74" column="5" />
+        <mark key="." line="74" column="5" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1503928496262">
         <mark key="[" line="0" column="0" />
@@ -80,13 +82,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1504767311652">
-        <mark key="[" line="65" column="63" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1506633537811">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1504083979793">
-        <mark key="[" line="22" column="6" />
+      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1506634328005">
+        <mark key="[" line="15" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -114,7 +116,7 @@
         <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IGxldCBtdXQgY29yZSA9IENvcmU6Om5ldygpPzs=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
@@ -148,7 +150,7 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuISgiZGlzcGxheV9zZXJ2aWNlX21lc3NhZ2VzIHt9IiwgJnNlbGYub3B0aW9ucy5kaXNwbGF5X3NlcnZpY2VfbWVzc2FnZXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IGxldCBtdXQgY29yZSA9IENvcmU6Om5ldygpPzs=</text>
       </register>
     </registers>
     <search>
@@ -164,6 +166,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
