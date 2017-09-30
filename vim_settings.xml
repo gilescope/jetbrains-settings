@@ -34,11 +34,6 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Footer.html" timestamp="1506746858436">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1504083712267">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/LLDB" timestamp="1506748284121">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,6 +60,9 @@
         <mark key="[" line="1977" column="19" />
         <mark key="]" line="1977" column="19" />
         <mark key="." line="1977" column="19" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
+        <mark key="[" line="212" column="4" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506746212044">
         <mark key="a" line="685" column="8" />
@@ -93,11 +91,6 @@
       </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1506745630413">
         <mark key="[" line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/metalminnie.co.uk/static-react/src/ebay-getsellerlist-1.cache.xml" timestamp="1504722004281">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1506633537811">
         <mark key="[" line="9" column="20" />
