@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Footer.html" timestamp="1506746858436">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="/LLDB" timestamp="1506840363749">
+      <file name="/LLDB" timestamp="1506841322241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
@@ -64,12 +64,12 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506840360452">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506874170156">
         <mark key="a" line="691" column="8" />
-        <mark key="u" line="1023" column="8" />
-        <mark key="[" line="1053" column="14" />
-        <mark key="]" line="1116" column="0" />
-        <mark key="." line="1116" column="0" />
+        <mark key="u" line="1035" column="8" />
+        <mark key="[" line="780" column="33" />
+        <mark key="]" line="777" column="0" />
+        <mark key="." line="777" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -119,37 +119,37 @@
         <text>r e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB5ID0gZGFkLnVwZ3JhZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB5ID0gZGFkLnVwZ3JhZGUoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmx1ZWltcC5HYWx5KAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAgIC8vICAgIHNpbmdsZV9pdGVtX2NhdHMucHVzaChjaC5jbG9uZSgpKTs=</text>
       </register>
     </registers>
     <search>
