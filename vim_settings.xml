@@ -64,13 +64,13 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506971067153">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506980096150">
         <mark key="a" line="691" column="8" />
         <mark key="u" line="1047" column="8" />
-        <mark key="[" line="772" column="62" />
-        <mark key="]" line="772" column="58" />
-        <mark key="^" line="772" column="58" />
-        <mark key="." line="772" column="58" />
+        <mark key="[" line="817" column="29" />
+        <mark key="]" line="817" column="29" />
+        <mark key="^" line="817" column="29" />
+        <mark key="." line="817" column="29" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
