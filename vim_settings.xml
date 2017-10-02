@@ -64,12 +64,13 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506876328532">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506928906266">
         <mark key="a" line="691" column="8" />
-        <mark key="u" line="1035" column="8" />
-        <mark key="[" line="1053" column="18" />
-        <mark key="]" line="1053" column="18" />
-        <mark key="." line="1053" column="18" />
+        <mark key="u" line="1038" column="8" />
+        <mark key="[" line="766" column="62" />
+        <mark key="]" line="766" column="58" />
+        <mark key="^" line="766" column="58" />
+        <mark key="." line="766" column="58" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -122,7 +123,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>String::from(&quot;http://metalminnie.com/&quot;) + url</text>
+        <text encoding="base64">bm9kZS5ib3Jyb3dfbXV0KCkucGFyZW50ID0g</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
@@ -149,7 +150,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>String::from(&quot;http://metalminnie.com/&quot;) + url</text>
+        <text encoding="base64">bm9kZS5ib3Jyb3dfbXV0KCkucGFyZW50ID0g</text>
       </register>
     </registers>
     <search>
