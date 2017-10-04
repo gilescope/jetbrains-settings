@@ -52,7 +52,7 @@
       <file name="/GDB" timestamp="1501265464437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506530456453">
+      <file name="/Dummy.txt" timestamp="1507101033095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" timestamp="1506492821916">
@@ -64,13 +64,13 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1506980096150">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507099833330">
         <mark key="a" line="691" column="8" />
-        <mark key="u" line="1047" column="8" />
-        <mark key="[" line="817" column="29" />
-        <mark key="]" line="817" column="29" />
-        <mark key="^" line="817" column="29" />
-        <mark key="." line="817" column="29" />
+        <mark key="u" line="1058" column="8" />
+        <mark key="[" line="772" column="78" />
+        <mark key="]" line="772" column="78" />
+        <mark key="^" line="828" column="29" />
+        <mark key="." line="772" column="78" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -123,7 +123,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm9kZS5ib3Jyb3dfbXV0KCkucGFyZW50ID0g</text>
+        <text>//TODO should this be other way around?</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
@@ -150,7 +150,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm9kZS5ib3Jyb3dfbXV0KCkucGFyZW50ID0g</text>
+        <text>//TODO should this be other way around?</text>
       </register>
     </registers>
     <search>
