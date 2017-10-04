@@ -2,8 +2,8 @@
   <tool name="cp-debug" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="cp" />
-      <option name="PARAMETERS" value="-R $ProjectFileDir$/target/debug/deps/ $ProjectFileDir$/target/debug/" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="PARAMETERS" value="-R /Users/gilescope/rally/target/debug/deps/ /Users/gilescope/rally/target/debug/" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/rally/target/debug/" />
     </exec>
   </tool>
 </toolSet>
