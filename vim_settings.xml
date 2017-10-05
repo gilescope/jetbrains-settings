@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Footer.html" timestamp="1506746858436">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="/LLDB" timestamp="1506841322241">
+      <file name="/LLDB" timestamp="1507231218997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
@@ -64,13 +64,13 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507188925503">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507231238878">
         <mark key="a" line="692" column="8" />
-        <mark key="u" line="1067" column="8" />
-        <mark key="[" line="776" column="78" />
-        <mark key="]" line="776" column="78" />
+        <mark key="u" line="1082" column="8" />
+        <mark key="[" line="835" column="23" />
+        <mark key="]" line="835" column="23" />
         <mark key="^" line="832" column="29" />
-        <mark key="." line="776" column="78" />
+        <mark key="." line="835" column="23" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -119,35 +119,35 @@
       <register name="0" type="4">
         <text>r e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGlmIGFsaWFzX21hcC5nZXQoJnIudGl0bGUuY2xvbmUoKSkgIT0gU29tZSgmY2gudGl0bGUuY2xvbmUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>//TODO should this be other way around?</text>
+        <text encoding="base64">IGlmIGFsaWFzX21hcC5nZXQoJnIudGl0bGUuY2xvbmUoKSkgIT0gU29tZSgmY2gudGl0bGUuY2xvbmUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB5ID0gZGFkLnVwZ3JhZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB5ID0gZGFkLnVwZ3JhZGUoKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmx1ZWltcC5HYWx5KAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>//TODO should this be other way around?</text>
