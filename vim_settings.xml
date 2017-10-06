@@ -30,11 +30,12 @@
       <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-0.1.16/tests/unsync.rs" timestamp="1506670430042" />
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Footer.html" timestamp="1506746858436">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1507277527584" />
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1507278187722">
+        <mark key="[" line="11" column="11" />
+      </file>
       <file name="/LLDB" timestamp="1507240711751">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,7 +82,6 @@
         <mark key="]" line="78" column="5" />
         <mark key="." line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-0.1.16/src/future/mod.rs" timestamp="1506669602099" />
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1503928496262">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,8 +91,8 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="128" column="15" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1506745630413">
-        <mark key="[" line="12" column="14" />
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1507278195530">
+        <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1506633537811">
         <mark key="[" line="9" column="20" />
