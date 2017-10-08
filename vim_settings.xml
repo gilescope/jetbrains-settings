@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1507278187722">
         <mark key="[" line="11" column="11" />
       </file>
-      <file name="/LLDB" timestamp="1507475110827">
+      <file name="/LLDB" timestamp="1507477743032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
@@ -66,9 +66,9 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507476541066">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507478655032">
         <mark key="a" line="693" column="8" />
-        <mark key="u" line="1103" column="8" />
+        <mark key="u" line="1106" column="8" />
         <mark key="'" line="937" column="40" />
         <mark key="[" line="391" column="24" />
         <mark key="]" line="391" column="24" />
@@ -77,6 +77,9 @@
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/index.html" timestamp="1507477890557">
+        <mark key="[" line="51" column="13" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay_fetcher.rs" timestamp="1506706543871">
         <mark key="]" line="78" column="5" />
