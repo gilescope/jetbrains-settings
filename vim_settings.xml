@@ -66,14 +66,14 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507279502929">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507471978718">
         <mark key="a" line="692" column="8" />
-        <mark key="u" line="1089" column="8" />
-        <mark key="'" line="1123" column="4" />
-        <mark key="[" line="1222" column="66" />
-        <mark key="]" line="781" column="0" />
-        <mark key="^" line="839" column="29" />
-        <mark key="." line="781" column="0" />
+        <mark key="u" line="1102" column="8" />
+        <mark key="'" line="936" column="40" />
+        <mark key="[" line="939" column="33" />
+        <mark key="]" line="939" column="36" />
+        <mark key="." line="939" column="31" />
+        <mark key="^" line="939" column="34" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -118,51 +118,63 @@
       <jump line="509" column="33" filename="$USER_HOME$/r2/rustyrusty/rust/src/libtest/lib.rs" />
       <jump line="1145" column="129" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="1123" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="805" column="0" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="1048" column="7" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="936" column="40" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>r e</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL0RpcmVjdCUyMFNhbGVzLUNvbGxlY3RhYmxlcy1TZXdpbmcsLUZhYnJpYy1hbmQtVGV4dGlsZXMtVGhpbWJsZS1Cb3hlcy1hbmQtSG9sZGVycy5odG1sCi8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL1RoaW1ibGUtQm94ZXMtYW5kLUhvbGRlcnMuaHRtbA==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL0RpcmVjdCUyMFNhbGVzLUNvbGxlY3RhYmxlcy1TZXdpbmcsLUZhYnJpYy1hbmQtVGV4dGlsZXMtVGhpbWJsZS1Cb3hlcy1hbmQtSG9sZGVycy5odG1sCi8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL1RoaW1ibGUtQm94ZXMtYW5kLUhvbGRlcnMuaHRtbA==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGlmIGFsaWFzX21hcC5nZXQoJnIudGl0bGUuY2xvbmUoKSkgIT0gU29tZSgmY2gudGl0bGUuY2xvbmUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB5ID0gZGFkLnVwZ3JhZGUoKSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmx1ZWltcC5HYWx5KAo=</text>
+        <text>, &quot;/&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>//TODO should this be other way around?</text>
+        <text>, &quot;/&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text>gen</text>
+      </register>
+      <register name="0" type="4">
+        <text>, &quot;,&quot;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9maWxlOi8vLy9Vc2Vycy9naWxlc2NvcGUvcmFsbHkvdGFyZ2V0L3Nob3Avc2lsdmVyL2NhdGVnb3JpZXMvRGlyZWN0JTIwU2FsZXMtQW50aXF1ZXMtU2lsdmVyLUN1dGxlcnkuaHRtbAogICAgICAgICAgICAvL2ZpbGU6Ly8vL1VzZXJzL2dpbGVzY29wZS9yYWxseS90YXJnZXQvc2hvcC9zaWx2ZXIvY2F0ZWdvcmllcy9EaXJlY3QtU2FsZXMtQW50aXF1ZXMtU2lsdmVyLUN1dGxlcnkuaHRtbCN0Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL0RpcmVjdCUyMFNhbGVzLUNvbGxlY3RhYmxlcy1TZXdpbmcsLUZhYnJpYy1hbmQtVGV4dGlsZXMtVGhpbWJsZS1Cb3hlcy1hbmQtSG9sZGVycy5odG1sCi8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL1RoaW1ibGUtQm94ZXMtYW5kLUhvbGRlcnMuaHRtbA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGlmIGFsaWFzX21hcC5nZXQoJnIudGl0bGUuY2xvbmUoKSkgIT0gU29tZSgmY2gudGl0bGUuY2xvbmUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>gen</last-search>
+      <last-offset />
+      <last-pattern>gen</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>gen_we</entry>
+        <entry>gen</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
