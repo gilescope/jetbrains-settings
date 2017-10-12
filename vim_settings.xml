@@ -24,6 +24,12 @@
         <mark key="^" line="1" column="110" />
         <mark key="." line="1" column="110" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/src/lib.rs" timestamp="1504446002202">
         <mark key="[" line="9" column="18" />
       </file>
@@ -38,12 +44,6 @@
       </file>
       <file name="/LLDB" timestamp="1507477743032">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1503990271504">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/stats.rs" timestamp="1506493013077">
         <mark key="[" line="47" column="40" />
@@ -66,14 +66,13 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507485991696">
-        <mark key="a" line="695" column="8" />
-        <mark key="u" line="1108" column="8" />
-        <mark key="'" line="939" column="40" />
-        <mark key="[" line="1069" column="70" />
-        <mark key="]" line="1171" column="11" />
-        <mark key="." line="1171" column="11" />
-        <mark key="^" line="1171" column="11" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1507842839684">
+        <mark key="a" line="701" column="8" />
+        <mark key="u" line="1114" column="8" />
+        <mark key="'" line="945" column="40" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -126,8 +125,8 @@
       <jump line="936" column="40" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>buffer.push('|');</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBvcHQgPSA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>buffer.push('|');</text>
@@ -139,31 +138,31 @@
         <text>, &quot;,&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGxldCBvcHQgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9maWxlOi8vLy9Vc2Vycy9naWxlc2NvcGUvcmFsbHkvdGFyZ2V0L3Nob3Avc2lsdmVyL2NhdGVnb3JpZXMvRGlyZWN0JTIwU2FsZXMtQW50aXF1ZXMtU2lsdmVyLUN1dGxlcnkuaHRtbAogICAgICAgICAgICAvL2ZpbGU6Ly8vL1VzZXJzL2dpbGVzY29wZS9yYWxseS90YXJnZXQvc2hvcC9zaWx2ZXIvY2F0ZWdvcmllcy9EaXJlY3QtU2FsZXMtQW50aXF1ZXMtU2lsdmVyLUN1dGxlcnkuaHRtbCN0Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL0RpcmVjdCUyMFNhbGVzLUNvbGxlY3RhYmxlcy1TZXdpbmcsLUZhYnJpYy1hbmQtVGV4dGlsZXMtVGhpbWJsZS1Cb3hlcy1hbmQtSG9sZGVycy5odG1sCi8vZmlsZTovLy8vVXNlcnMvZ2lsZXNjb3BlL3JhbGx5L3RhcmdldC9zaG9wL3NpbHZlci9jYXRlZ29yaWVzL1RoaW1ibGUtQm94ZXMtYW5kLUhvbGRlcnMuaHRtbA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGlmIGFsaWFzX21hcC5nZXQoJnIudGl0bGUuY2xvbmUoKSkgIT0gU29tZSgmY2gudGl0bGUuY2xvbmUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuc3ViY2F0ZWdvcmllcy5kcmFpbigpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGFsd2F5cyEocGFyZW50X2NhdC51cGdyYWRlKCkpOwo=</text>
       </register>
     </registers>
     <search>
