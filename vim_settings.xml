@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-4-10-Central-Heating-A-Retrospective.md" timestamp="1508312592551">
         <mark key="[" line="1" column="1" />
       </file>
-      <file name="/LLDB" timestamp="1508799029487">
+      <file name="/LLDB" timestamp="1508863381116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1506634328005">
@@ -58,13 +58,13 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1508799210023">
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1508863358027">
         <mark key="a" line="718" column="8" />
         <mark key="u" line="1137" column="8" />
-        <mark key="'" line="962" column="40" />
-        <mark key="[" line="248" column="8" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
+        <mark key="'" line="1336" column="4" />
+        <mark key="[" line="1382" column="6" />
+        <mark key="]" line="1382" column="6" />
+        <mark key="." line="1382" column="6" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -74,7 +74,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2017-10-15-welcome-to-jekyll.md" timestamp="1508517501060" />
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-20-10-SEO.md" timestamp="1508352555538">
         <mark key="[" line="24" column="0" />
       </file>
@@ -156,7 +155,6 @@
       <file name="$USER_HOME$/rally/src/imgstats.rs" timestamp="1508829866003">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2017-10-14-The-Quickening.md" timestamp="1508311589931" />
       <file name="$USER_HOME$/gilescope.github.io/_posts/temp.txt" timestamp="1508517044207">
         <mark key="[" line="738" column="630" />
         <mark key="]" line="738" column="630" />
@@ -217,13 +215,15 @@
       <jump line="936" column="40" filename="$USER_HOME$/rally/ebay/src/website.rs" />
       <jump line="9940" column="0" filename="$USER_HOME$/gilescope.github.io/_posts/temp.txt" />
       <jump line="9964" column="302" filename="$USER_HOME$/gilescope.github.io/_posts/temp.txt" />
+      <jump line="1354" column="41" filename="$USER_HOME$/rally/ebay/src/website.rs" />
+      <jump line="1336" column="4" filename="$USER_HOME$/rally/ebay/src/website.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wYW5pYyEoIk9oIG5vIGlkPXs6P30gZGlyPXs6P30gc2t1PXs6P30iLCAmaXRlbS5lYmF5X3JlZiwgJml0ZW0uZmlsZSwgJml0ZW0uc2t1KTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAvL0FsaWFzIHNob3VsZCBpbml0aWFsbHkgZG8gQS0+QiwgYnV0IHdoZW4gQi0+QyB0aGVuIGFsbCBwb2ludGVycyB0byBCIHNob3VsZCBhbHNvIGJlIHVwZGF0ZWQuCiAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>cats</text>
+        <text encoding="base64">ICAgYXNzZXJ0X2VxIShhbHdheXMhKGNtLmdldCgiQSIpKS5ib3Jyb3coKS50aXRsZSwgIkIiKTs=</text>
       </register>
       <register name="/" type="4">
         <text>gen</text>
@@ -231,32 +231,32 @@
       <register name="0" type="4">
         <text>, &quot;,&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wYW5pYyEoIk9oIG5vIGlkPXs6P30gZGlyPXs6P30gc2t1PXs6P30iLCAmaXRlbS5lYmF5X3JlZiwgJml0ZW0uZmlsZSwgJml0ZW0uc2t1KTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAvL0FsaWFzIHNob3VsZCBpbml0aWFsbHkgZG8gQS0+QiwgYnV0IHdoZW4gQi0+QyB0aGVuIGFsbCBwb2ludGVycyB0byBCIHNob3VsZCBhbHNvIGJlIHVwZGF0ZWQuCiAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cm1hY3JvX3J1bGVzISBzIHsKICAgICR4OmV4cHIKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wYW5pYyEoIk9oIG5vIGlkPXs6P30gZGlyPXs6P30gc2t1PXs6P30iLCAmaXRlbS5lYmF5X3JlZiwgJml0ZW0uZmlsZSwgJml0ZW0uc2t1KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly84OjE1IGZyb20gd2l0aGFtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAie2NhdGVnb3JpZXN9IiA9PiAmY2F0cwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgY2F0cyA9IFN0cmluZzo6bmV3KCk7CiAgICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3M9ImFjY29yZGlhbiI+CgogICAgICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgICB7aXRlbXN9CgogICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly84OjE1IGZyb20gd2l0aGFtCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAie2NhdGVnb3JpZXN9IiA9PiAmY2F0cwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
