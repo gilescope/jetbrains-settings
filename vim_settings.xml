@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/rally/src/time.rs" timestamp="1504445817318">
         <mark key="[" line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-04-10-Clean-Code.md" timestamp="1508349078355">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Head.html" timestamp="1507488372222">
         <mark key="[" line="7" column="34" />
       </file>
@@ -18,96 +23,16 @@
       <file name="$USER_HOME$/gilescope.github.io/404.html" timestamp="1508517298158">
         <mark key="[" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-03-02-Beautiful-Tests.md" timestamp="1508433502045">
-        <mark key="[" line="48" column="16" />
-      </file>
-      <file name="/a.dummy" timestamp="1502534043474">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/src/lib.rs" timestamp="1504446002202">
-        <mark key="[" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-06-17-JavaScript.md" timestamp="1508517068961">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
-        <mark key="[" line="245" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Footer.html" timestamp="1506746858436">
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-4-10-Central-Heating-A-Retrospective.md" timestamp="1508312592551">
-        <mark key="[" line="1" column="1" />
-      </file>
-      <file name="/LLDB" timestamp="1508864190797">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1506634328005">
-        <mark key="[" line="15" column="10" />
-      </file>
-      <file name="$USER_HOME$/rally/src/matcher.rs" timestamp="1508829786204">
-        <mark key="[" line="34" column="22" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-08-24-Feedback-Loops.md" timestamp="1508435968273">
-        <mark key="[" line="87" column="1" />
-        <mark key="]" line="87" column="1" />
-        <mark key="." line="87" column="1" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
-        <mark key="[" line="212" column="4" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1508955558814">
-        <mark key="a" line="759" column="8" />
-        <mark key="u" line="1183" column="8" />
-        <mark key="'" line="1382" column="4" />
-        <mark key="[" line="578" column="7" />
-        <mark key="]" line="578" column="7" />
-        <mark key="." line="578" column="7" />
-        <mark key="^" line="569" column="23" />
-      </file>
-      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
-        <mark key="[" line="15" column="10" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2017-02-20-Rust-FTW.md" timestamp="1508311507426">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-20-10-SEO.md" timestamp="1508352555538">
-        <mark key="[" line="24" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1503928496262">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2017-05-15-Rust-FTW.md" timestamp="1508518535731">
-        <mark key="[" line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1508796701006">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-06-02-TeamCity.md" timestamp="1508351520832">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_config.yml" timestamp="1508517382304">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-04-10-Clean-Code.md" timestamp="1508349078355">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-01-10-Universal-JavaScript.md" timestamp="1508312834432">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-03-02-Beautiful-Tests.md" timestamp="1508433502045">
+        <mark key="[" line="48" column="16" />
+      </file>
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-01-04-Cache-by-Hash.md" timestamp="1508350961843">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1502534043474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-07-10-KeyBindings.md" timestamp="1508399496250">
@@ -136,8 +61,28 @@
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-02-12-Deployment.md" timestamp="1508351882783">
         <mark key="[" line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/rally/src/lib.rs" timestamp="1504446002202">
+        <mark key="[" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-06-17-JavaScript.md" timestamp="1508517068961">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/r2/repro/cargo/tests/bench.rs" timestamp="1497818100118">
+        <mark key="[" line="245" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Footer.html" timestamp="1506746858436">
+        <mark key="[" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/items/Main.html" timestamp="1507278187722">
         <mark key="[" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-4-10-Central-Heating-A-Retrospective.md" timestamp="1508312592551">
+        <mark key="[" line="1" column="1" />
+      </file>
+      <file name="/LLDB" timestamp="1508864190797">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/stats.rs" timestamp="1506493013077">
         <mark key="[" line="47" column="40" />
@@ -147,14 +92,37 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/rally/ebay/Cargo.toml" timestamp="1506634328005">
+        <mark key="[" line="15" column="10" />
+      </file>
       <file name="/GDB" timestamp="1501265464437">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/src/matcher.rs" timestamp="1508829786204">
+        <mark key="[" line="34" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1508917540694">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-08-24-Feedback-Loops.md" timestamp="1508435968273">
+        <mark key="[" line="87" column="1" />
+        <mark key="]" line="87" column="1" />
+        <mark key="." line="87" column="1" />
+      </file>
       <file name="$USER_HOME$/rally/src/imgstats.rs" timestamp="1508829866003">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
+        <mark key="[" line="212" column="4" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1508969943345">
+        <mark key="a" line="760" column="8" />
+        <mark key="u" line="1184" column="8" />
+        <mark key="'" line="1383" column="4" />
+        <mark key="[" line="571" column="47" />
+        <mark key="]" line="579" column="7" />
+        <mark key="." line="579" column="7" />
+        <mark key="^" line="569" column="23" />
       </file>
       <file name="$USER_HOME$/gilescope.github.io/_posts/temp.txt" timestamp="1508517044207">
         <mark key="[" line="738" column="630" />
@@ -162,13 +130,30 @@
         <mark key="^" line="2988" column="6" />
         <mark key="." line="738" column="630" />
       </file>
+      <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
+        <mark key="[" line="15" column="10" />
+      </file>
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-06-22-Election.md" timestamp="1508516847188">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2017-02-20-Rust-FTW.md" timestamp="1508311507426">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/rally/ebay/src/templates/index.html" timestamp="1507477890557">
         <mark key="[" line="51" column="13" />
+      </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-20-10-SEO.md" timestamp="1508352555538">
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1503928496262">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2017-05-15-Rust-FTW.md" timestamp="1508518535731">
+        <mark key="[" line="118" column="0" />
       </file>
       <file name="$USER_HOME$/rally/src/xml.rs" timestamp="1508830517166">
         <mark key="[" line="123" column="0" />
@@ -186,6 +171,21 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/rally/ebay/src/templates/shop/silver/categories/Direct-Sales.html" timestamp="1508796701006">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/gilescope.github.io/_posts/2016-06-02-TeamCity.md" timestamp="1508351520832">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/gilescope.github.io/_config.yml" timestamp="1508517382304">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/ebay.rs" timestamp="1506633537811">
         <mark key="[" line="9" column="20" />
