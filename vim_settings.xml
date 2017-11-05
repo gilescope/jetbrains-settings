@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1498116730351">
@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/rally/ebay/src/templates/styles.css" timestamp="1506749762533">
         <mark key="[" line="212" column="4" />
       </file>
-      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1509902227747">
-        <mark key="[" line="331" column="44" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/rally/ebay/src/website.rs" timestamp="1509909683554">
+        <mark key="[" line="332" column="44" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/rally/Cargo.toml" timestamp="1506530885501">
         <mark key="[" line="15" column="10" />
@@ -110,10 +110,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rally/ebay/src/catman.rs" timestamp="1509906566002">
-        <mark key="[" line="131" column="20" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/gilescope.github.io/_posts/2016-01-10-Universal-JavaScript.md" timestamp="1508312834432">
         <mark key="[" line="0" column="0" />
