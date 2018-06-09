@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
       <mapping ext="capnp" type="PLAIN_TEXT" />
+      <mapping ext="x" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
