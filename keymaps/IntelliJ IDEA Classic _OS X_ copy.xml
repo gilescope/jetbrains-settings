@@ -1,0 +1,23 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+</keymap>
