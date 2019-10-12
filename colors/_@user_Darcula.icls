@@ -3,10 +3,15 @@
     <property name="created">2017-07-03T22:57:02</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2019-03-21T18:10:32</property>
+    <property name="modified">2019-10-12T08:02:53</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="20999d" />
